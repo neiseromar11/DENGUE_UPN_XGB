@@ -1,0 +1,210 @@
+{
+  "fuente": {
+    "archivo": "clima_departamento LIMA METROPOLITANA.xlsx",
+    "sha256": "b2eb5a3bd09d502f941e0ee913a2695b3179002cf9d50f6f0423157f49325068",
+    "definicion": "CONFIRMADO",
+    "ubigeos": 14
+  },
+  "cobertura": {
+    "filas_2020_2026": 5124,
+    "filas_casos_explicitos": 837,
+    "semanas_calendario": 366,
+    "semanas_con_casos_observados": 197,
+    "positivos": 809,
+    "ceros_explicitos": 28,
+    "vacios": 4287,
+    "ultima_semana_con_casos": "2026-SE40",
+    "casos_explicitos_por_ano": {
+      "2020": 9,
+      "2021": 34,
+      "2022": 22,
+      "2023": 267,
+      "2024": 327,
+      "2025": 37,
+      "2026": 141
+    }
+  },
+  "validacion_2023_2024": {
+    "actual_sin_clima": {
+      "n": 562,
+      "MAE": 17.47091611975877,
+      "RMSE": 81.67906650915478,
+      "WAPE_pct": 54.255704588077734,
+      "sMAPE_pct": 47.24227591052371,
+      "dentro_10_pct": 11.607142857142858,
+      "casos_reales_cero": 2
+    },
+    "actual_con_clima_sin_ceros": {
+      "n": 562,
+      "MAE": 18.12623565264868,
+      "RMSE": 84.65067505861045,
+      "WAPE_pct": 56.290790942081884,
+      "sMAPE_pct": 47.21356054980378,
+      "dentro_10_pct": 12.857142857142856,
+      "casos_reales_cero": 2
+    },
+    "candidato_ceros_mas_clima": {
+      "n": 562,
+      "MAE": 19.62360474744437,
+      "RMSE": 91.10032855065022,
+      "WAPE_pct": 60.940851345879075,
+      "sMAPE_pct": 73.57285000577701,
+      "dentro_10_pct": 11.607142857142858,
+      "casos_reales_cero": 2
+    }
+  },
+  "prueba_final_2025_2026": {
+    "actual_sin_clima": {
+      "n": 178,
+      "MAE": 2.8369661569595337,
+      "RMSE": 6.456237553151173,
+      "WAPE_pct": 36.01854321960036,
+      "sMAPE_pct": 65.4548522082198,
+      "dentro_10_pct": 6.493506493506493,
+      "casos_reales_cero": 24
+    },
+    "actual_con_clima_sin_ceros": {
+      "n": 178,
+      "MAE": 2.758557470996728,
+      "RMSE": 6.245373935662502,
+      "WAPE_pct": 35.02305490994419,
+      "sMAPE_pct": 64.90659937539708,
+      "dentro_10_pct": 8.441558441558442,
+      "casos_reales_cero": 24
+    },
+    "candidato_ceros_mas_clima": {
+      "n": 178,
+      "MAE": 3.050036159459125,
+      "RMSE": 6.863990148476396,
+      "WAPE_pct": 38.723711582291315,
+      "sMAPE_pct": 123.97269564956811,
+      "dentro_10_pct": 4.545454545454546,
+      "casos_reales_cero": 24
+    }
+  },
+  "seleccion_solo_validacion": "actual_sin_clima",
+  "regla_adopcion": "Adoptar solo si gana en validacion y reduce WAPE y MAE en prueba final frente al actual.",
+  "adoptar": false,
+  "errores_mayores_candidato": [
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE15",
+      "real_confirmado": 1001.0,
+      "prediccion_ceros_mas_clima": 163.85948181152344,
+      "error_abs": 837.1405181884766,
+      "error_pct": 83.6304213974502
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE16",
+      "real_confirmado": 1004.0,
+      "prediccion_ceros_mas_clima": 169.84130859375,
+      "error_abs": 834.15869140625,
+      "error_pct": 83.0835350006225
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE17",
+      "real_confirmado": 904.0,
+      "prediccion_ceros_mas_clima": 194.56723022460938,
+      "error_abs": 709.4327697753906,
+      "error_pct": 78.47707630258746
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE18",
+      "real_confirmado": 839.0,
+      "prediccion_ceros_mas_clima": 199.16831970214844,
+      "error_abs": 639.8316802978516,
+      "error_pct": 76.26122530367718
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE14",
+      "real_confirmado": 778.0,
+      "prediccion_ceros_mas_clima": 139.9694366455078,
+      "error_abs": 638.0305633544922,
+      "error_pct": 82.00906983990902
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE19",
+      "real_confirmado": 801.0,
+      "prediccion_ceros_mas_clima": 210.7443389892578,
+      "error_abs": 590.2556610107422,
+      "error_pct": 73.68984531969316
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2023-SE18",
+      "real_confirmado": 480.0,
+      "prediccion_ceros_mas_clima": 27.29271697998047,
+      "error_abs": 452.70728302001953,
+      "error_pct": 94.3140172958374
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE13",
+      "real_confirmado": 580.0,
+      "prediccion_ceros_mas_clima": 134.66397094726562,
+      "error_abs": 445.3360290527344,
+      "error_pct": 76.78207397460938
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2023-SE20",
+      "real_confirmado": 442.0,
+      "prediccion_ceros_mas_clima": 30.134428024291992,
+      "error_abs": 411.865571975708,
+      "error_pct": 93.18225610310135
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2023-SE19",
+      "real_confirmado": 407.0,
+      "prediccion_ceros_mas_clima": 15.909330368041992,
+      "error_abs": 391.090669631958,
+      "error_pct": 96.09107361964571
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2023-SE21",
+      "real_confirmado": 430.0,
+      "prediccion_ceros_mas_clima": 48.75962448120117,
+      "error_abs": 381.2403755187988,
+      "error_pct": 88.66055244623229
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2023-SE17",
+      "real_confirmado": 394.0,
+      "prediccion_ceros_mas_clima": 22.469980239868164,
+      "error_abs": 371.53001976013184,
+      "error_pct": 94.2969593299827
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE20",
+      "real_confirmado": 543.0,
+      "prediccion_ceros_mas_clima": 180.52452087402344,
+      "error_abs": 362.47547912597656,
+      "error_pct": 66.75423188323694
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2024-SE12",
+      "real_confirmado": 468.0,
+      "prediccion_ceros_mas_clima": 124.41644287109375,
+      "error_abs": 343.58355712890625,
+      "error_pct": 73.41528998480904
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "semana_epidemiologica": "2023-SE22",
+      "real_confirmado": 366.0,
+      "prediccion_ceros_mas_clima": 29.60427474975586,
+      "error_abs": 336.39572525024414,
+      "error_pct": 91.91140034159676
+    }
+  ]
+}

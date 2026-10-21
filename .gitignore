@@ -1,0 +1,58 @@
+# =========================================================
+# DengueML-UPN - .gitignore
+# =========================================================
+
+# --- Variables de entorno y secretos ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Respaldos ---
+backups/
+
+# --- Entornos virtuales ---
+.venv/
+.runtime-envs/
+dist/
+wheelhouse/
+venv/
+env/
+
+# --- IDEs ---
+.idea/
+.vscode/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Bases de datos locales ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Dataset y Datos Procesados ---
+datos_abiertos_vigilancia_dengue.csv
+data/raw/
+data/processed/
+.pytest_cache/
+reports/test_tmp/
+reports/pytest_*/
+
+
+*.zip
+.pytest-run/
+.pytest_tmp/
+.tmp-tests/
+pytest-cache-files-*/
+

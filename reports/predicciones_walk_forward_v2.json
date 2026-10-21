@@ -1,0 +1,262 @@
+{
+  "version_datos": "v3-fd76eb0311248856-22f8bcb2a63d",
+  "sha256_datos": "06a1e001123099d5c0d0fb59e2631f4ba21ccca54eaca4e6cc3e91d650c762c9",
+  "version_modelo_walk_forward": "walk-forward-nested-v3-district-effects",
+  "horizonte_semanas": 1,
+  "fecha_calculo_utc": "2026-10-21T13:41:59.579105+00:00",
+  "fecha_version_datos_utc": "2026-10-12T01:04:11.631342+00:00",
+  "fecha_descarga_fuente": null,
+  "muestras_oos": 326,
+  "metricas_xgb_actual": {
+    "modelo": "xgb_actual",
+    "n": 326,
+    "MAE": 22.4738033534559,
+    "RMSE": 71.07821579940739,
+    "WAPE_pct": 48.404201197321775,
+    "sMAPE_pct": 72.93361319508004,
+    "dentro_10_pct": 10.736196319018406
+  },
+  "metricas": {
+    "n": 326,
+    "mae": 12.266871165644172,
+    "rmse": 35.141475678796354,
+    "wape": 26.420454545454547,
+    "smape": 43.20028416310192,
+    "dentro_10": 15.030674846625766,
+    "baseline_mae": 12.266871165644172
+  },
+  "metricas_seleccion_temporal": {
+    "modelo": "seleccion_temporal",
+    "n": 326,
+    "MAE": 12.846948802391728,
+    "RMSE": 35.88090556874347,
+    "WAPE_pct": 27.669828948068865,
+    "sMAPE_pct": 45.05546601249683,
+    "dentro_10_pct": 14.723926380368098
+  },
+  "comparacion_modelos": [
+    {
+      "modelo": "persistencia",
+      "n": 326,
+      "MAE": 12.266871165644172,
+      "RMSE": 35.141475678796354,
+      "WAPE_pct": 26.420454545454547,
+      "sMAPE_pct": 43.20028416310192,
+      "dentro_10_pct": 15.030674846625766
+    },
+    {
+      "modelo": "seleccion_temporal",
+      "n": 326,
+      "MAE": 12.846948802391728,
+      "RMSE": 35.88090556874347,
+      "WAPE_pct": 27.669828948068865,
+      "sMAPE_pct": 45.05546601249683,
+      "dentro_10_pct": 14.723926380368098
+    },
+    {
+      "modelo": "media_3",
+      "n": 326,
+      "MAE": 20.65644171779141,
+      "RMSE": 58.81867623028675,
+      "WAPE_pct": 44.4899577167019,
+      "sMAPE_pct": 52.56605400626059,
+      "dentro_10_pct": 12.883435582822086
+    },
+    {
+      "modelo": "xgb_actual",
+      "n": 326,
+      "MAE": 22.4738033534559,
+      "RMSE": 71.07821579940739,
+      "WAPE_pct": 48.404201197321775,
+      "sMAPE_pct": 72.93361319508004,
+      "dentro_10_pct": 10.736196319018406
+    },
+    {
+      "modelo": "xgb_log1p",
+      "n": 326,
+      "MAE": 24.210507354853345,
+      "RMSE": 101.27275957218097,
+      "WAPE_pct": 52.14472382189608,
+      "sMAPE_pct": 46.99896980996417,
+      "dentro_10_pct": 14.723926380368098
+    },
+    {
+      "modelo": "xgb_regularizado",
+      "n": 326,
+      "MAE": 28.17984071099685,
+      "RMSE": 81.18453589466084,
+      "WAPE_pct": 60.69389582310368,
+      "sMAPE_pct": 85.2824236189769,
+      "dentro_10_pct": 6.134969325153374
+    },
+    {
+      "modelo": "poisson",
+      "n": 326,
+      "MAE": 35.054775019457935,
+      "RMSE": 180.39547333100373,
+      "WAPE_pct": 75.50116712700374,
+      "sMAPE_pct": 62.1367140857089,
+      "dentro_10_pct": 8.282208588957054
+    }
+  ],
+  "seleccion_modelos": {
+    "persistencia": 281,
+    "poisson": 20,
+    "xgb_actual": 14,
+    "xgb_log1p": 11
+  },
+  "metricas_por_distrito": [
+    {
+      "distrito": "Breña",
+      "n_predicciones": 23,
+      "MAE_modelo": 4.521739130434782,
+      "MAE_baseline": 4.521739130434782,
+      "RMSE_modelo": 6.185537128270866,
+      "WAPE_pct": 32.098765432098766,
+      "dentro_10_pct": 26.08695652173913
+    },
+    {
+      "distrito": "Cercado de Lima",
+      "n_predicciones": 37,
+      "MAE_modelo": 11.864864864864865,
+      "MAE_baseline": 11.864864864864865,
+      "RMSE_modelo": 16.8338462146468,
+      "WAPE_pct": 25.702576112412178,
+      "dentro_10_pct": 8.108108108108109
+    },
+    {
+      "distrito": "Jesús María",
+      "n_predicciones": 24,
+      "MAE_modelo": 4.5,
+      "MAE_baseline": 4.5,
+      "RMSE_modelo": 5.5377492419453835,
+      "WAPE_pct": 29.75206611570248,
+      "dentro_10_pct": 12.5
+    },
+    {
+      "distrito": "La Victoria",
+      "n_predicciones": 31,
+      "MAE_modelo": 4.774193548387097,
+      "MAE_baseline": 4.774193548387097,
+      "RMSE_modelo": 7.0847405306826,
+      "WAPE_pct": 25.0,
+      "dentro_10_pct": 19.35483870967742
+    },
+    {
+      "distrito": "Lince",
+      "n_predicciones": 20,
+      "MAE_modelo": 3.0,
+      "MAE_baseline": 3.0,
+      "RMSE_modelo": 4.03732584763727,
+      "WAPE_pct": 24.793388429752067,
+      "dentro_10_pct": 25.0
+    },
+    {
+      "distrito": "Magdalena",
+      "n_predicciones": 21,
+      "MAE_modelo": 3.857142857142857,
+      "MAE_baseline": 3.857142857142857,
+      "RMSE_modelo": 4.664965676390852,
+      "WAPE_pct": 45.76271186440678,
+      "dentro_10_pct": 4.761904761904762
+    },
+    {
+      "distrito": "Miraflores",
+      "n_predicciones": 20,
+      "MAE_modelo": 5.5,
+      "MAE_baseline": 5.5,
+      "RMSE_modelo": 7.880355321938218,
+      "WAPE_pct": 69.18238993710692,
+      "dentro_10_pct": 15.0
+    },
+    {
+      "distrito": "Pueblo Libre",
+      "n_predicciones": 21,
+      "MAE_modelo": 6.142857142857143,
+      "MAE_baseline": 6.142857142857143,
+      "RMSE_modelo": 8.443086774735546,
+      "WAPE_pct": 29.723502304147466,
+      "dentro_10_pct": 19.047619047619047
+    },
+    {
+      "distrito": "San Borja",
+      "n_predicciones": 20,
+      "MAE_modelo": 6.65,
+      "MAE_baseline": 6.65,
+      "RMSE_modelo": 9.457801012920498,
+      "WAPE_pct": 57.08154506437768,
+      "dentro_10_pct": 5.0
+    },
+    {
+      "distrito": "San Isidro",
+      "n_predicciones": 11,
+      "MAE_modelo": 2.3636363636363638,
+      "MAE_baseline": 2.3636363636363638,
+      "RMSE_modelo": 2.73030134866931,
+      "WAPE_pct": 40.625,
+      "dentro_10_pct": 9.090909090909092
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "n_predicciones": 44,
+      "MAE_modelo": 55.52272727272727,
+      "MAE_baseline": 55.52272727272727,
+      "RMSE_modelo": 93.1693228872719,
+      "WAPE_pct": 24.0855762594893,
+      "dentro_10_pct": 15.909090909090908
+    },
+    {
+      "distrito": "San Luis",
+      "n_predicciones": 17,
+      "MAE_modelo": 2.2941176470588234,
+      "MAE_baseline": 2.2941176470588234,
+      "RMSE_modelo": 3.3166247903554,
+      "WAPE_pct": 24.528301886792452,
+      "dentro_10_pct": 41.17647058823529
+    },
+    {
+      "distrito": "San Miguel",
+      "n_predicciones": 21,
+      "MAE_modelo": 5.428571428571429,
+      "MAE_baseline": 5.428571428571429,
+      "RMSE_modelo": 6.582805886043833,
+      "WAPE_pct": 28.35820895522388,
+      "dentro_10_pct": 9.523809523809524
+    },
+    {
+      "distrito": "Surquillo",
+      "n_predicciones": 16,
+      "MAE_modelo": 4.0625,
+      "MAE_baseline": 4.0625,
+      "RMSE_modelo": 5.562148865321747,
+      "WAPE_pct": 47.794117647058826,
+      "dentro_10_pct": 0.0
+    }
+  ],
+  "metricas_por_ano": [
+    {
+      "ano": 2023,
+      "n_predicciones": 105,
+      "MAE_modelo": 6.304761904761905,
+      "MAE_baseline": 6.304761904761905,
+      "RMSE_modelo": 16.69217096211788,
+      "WAPE_pct": 34.823776959495,
+      "dentro_10_pct": 11.428571428571429
+    },
+    {
+      "ano": 2024,
+      "n_predicciones": 221,
+      "MAE_modelo": 15.099547511312217,
+      "MAE_baseline": 15.099547511312217,
+      "RMSE_modelo": 41.100748085803374,
+      "WAPE_pct": 25.21344918775973,
+      "dentro_10_pct": 16.7420814479638
+    }
+  ],
+  "politica_faltantes": "Semanas sin registros excluidas; no interpretadas como cero.",
+  "fuente": "MINSA / CDC Perú, Vigilancia Epidemiológica de dengue",
+  "url": "https://www.datosabiertos.gob.pe/dataset/vigilancia-epidemiol%C3%B3gica-de-dengue",
+  "licencia": "Open Data Commons Attribution License",
+  "cobertura": "Versión local: 2023-SE01 a 2024-SE52; 14 distritos DIRIS Lima Centro.",
+  "notas": "El archivo fuente original no está presente en la carpeta; no se descargaron datos nuevos. SHA-256 de la versión consolidada: el campo sha256_datos permite reproducirla. Estimaciones evaluables solo con cuatro lags semanales consecutivos observados y 20 ejemplos de entrenamiento previos. El CSV contiene únicamente predicciones out-of-sample."
+}

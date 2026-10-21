@@ -1,0 +1,196 @@
+{
+  "candidato_validacion": "xgb_moderado",
+  "modelo_publicado": "xgb_moderado",
+  "parametros": {
+    "max_depth": 3,
+    "n_estimators": 150,
+    "min_child_weight": 3,
+    "reg_lambda": 5
+  },
+  "cortes_validacion": [
+    "2024-SE16",
+    "2024-SE24",
+    "2024-SE32"
+  ],
+  "cortes_test": [
+    "2024-SE36",
+    "2024-SE40",
+    "2024-SE44",
+    "2024-SE48"
+  ],
+  "mejora_minima_mae": 0.02,
+  "criterio": "MAE medio de pasos 2, 3 y 4; mejora >2% y sin empeorar ningún horizonte.",
+  "limites": "Backtest retrospectivo; no garantiza precisión futura ni calibración sanitaria.",
+  "validacion": [
+    {
+      "modelo": "baseline",
+      "horizonte": 1,
+      "mae": 5.880952380952381,
+      "n": 42,
+      "rmse": 16.75524082900915
+    },
+    {
+      "modelo": "baseline",
+      "horizonte": 2,
+      "mae": 9.095238095238095,
+      "n": 42,
+      "rmse": 27.61124684582267
+    },
+    {
+      "modelo": "baseline",
+      "horizonte": 3,
+      "mae": 12.238095238095237,
+      "n": 42,
+      "rmse": 34.19481999200631
+    },
+    {
+      "modelo": "baseline",
+      "horizonte": 4,
+      "mae": 19.547619047619047,
+      "n": 42,
+      "rmse": 73.6204875729317
+    },
+    {
+      "modelo": "xgb_conservador",
+      "horizonte": 1,
+      "mae": 11.708523369970775,
+      "n": 42,
+      "rmse": 53.34483937471862
+    },
+    {
+      "modelo": "xgb_conservador",
+      "horizonte": 2,
+      "mae": 11.666314221563793,
+      "n": 42,
+      "rmse": 44.674462773773904
+    },
+    {
+      "modelo": "xgb_conservador",
+      "horizonte": 3,
+      "mae": 12.475119199071612,
+      "n": 42,
+      "rmse": 39.94581058565451
+    },
+    {
+      "modelo": "xgb_conservador",
+      "horizonte": 4,
+      "mae": 7.137948592503865,
+      "n": 42,
+      "rmse": 12.289977144205425
+    },
+    {
+      "modelo": "xgb_moderado",
+      "horizonte": 1,
+      "mae": 6.20386342775254,
+      "n": 42,
+      "rmse": 15.88487478194553
+    },
+    {
+      "modelo": "xgb_moderado",
+      "horizonte": 2,
+      "mae": 8.775554382233393,
+      "n": 42,
+      "rmse": 23.342645930759936
+    },
+    {
+      "modelo": "xgb_moderado",
+      "horizonte": 3,
+      "mae": 10.60944160535222,
+      "n": 42,
+      "rmse": 30.51984469750657
+    },
+    {
+      "modelo": "xgb_moderado",
+      "horizonte": 4,
+      "mae": 15.807563693750472,
+      "n": 42,
+      "rmse": 47.60448043840658
+    },
+    {
+      "modelo": "xgb_poisson",
+      "horizonte": 1,
+      "mae": 15.288067914190746,
+      "n": 42,
+      "rmse": 73.71012688070911
+    },
+    {
+      "modelo": "xgb_poisson",
+      "horizonte": 2,
+      "mae": 19.057300255412148,
+      "n": 42,
+      "rmse": 86.43630755820985
+    },
+    {
+      "modelo": "xgb_poisson",
+      "horizonte": 3,
+      "mae": 21.88987668922969,
+      "n": 42,
+      "rmse": 91.52759210633411
+    },
+    {
+      "modelo": "xgb_poisson",
+      "horizonte": 4,
+      "mae": 17.23640619005476,
+      "n": 42,
+      "rmse": 52.506974537803146
+    }
+  ],
+  "test": [
+    {
+      "modelo": "baseline",
+      "horizonte": 1,
+      "mae": 0.125,
+      "n": 56,
+      "rmse": 0.4008918628686366
+    },
+    {
+      "modelo": "baseline",
+      "horizonte": 2,
+      "mae": 0.16071428571428573,
+      "n": 56,
+      "rmse": 0.48181205582971576
+    },
+    {
+      "modelo": "baseline",
+      "horizonte": 3,
+      "mae": 0.16071428571428573,
+      "n": 56,
+      "rmse": 0.4008918628686366
+    },
+    {
+      "modelo": "baseline",
+      "horizonte": 4,
+      "mae": 0.19642857142857142,
+      "n": 56,
+      "rmse": 0.5175491695067657
+    },
+    {
+      "modelo": "xgb_moderado",
+      "horizonte": 1,
+      "mae": 0.11069402417966298,
+      "n": 56,
+      "rmse": 0.3714026544465158
+    },
+    {
+      "modelo": "xgb_moderado",
+      "horizonte": 2,
+      "mae": 0.1295720296246665,
+      "n": 56,
+      "rmse": 0.4646367219678313
+    },
+    {
+      "modelo": "xgb_moderado",
+      "horizonte": 3,
+      "mae": 0.07166785853249687,
+      "n": 56,
+      "rmse": 0.2672672405933531
+    },
+    {
+      "modelo": "xgb_moderado",
+      "horizonte": 4,
+      "mae": 0.10335127264261246,
+      "n": 56,
+      "rmse": 0.368888921202458
+    }
+  ]
+}

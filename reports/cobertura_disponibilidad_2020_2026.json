@@ -1,0 +1,35 @@
+{
+  "fecha_revision": "2026-10-21",
+  "alcance": "14 distritos DIRIS Lima Centro",
+  "integrado_en_modelo": {
+    "2020": false,
+    "2021": false,
+    "2022": false,
+    "2023": true,
+    "2024": true,
+    "2025": false,
+    "2026": false
+  },
+  "cobertura_local": {
+    "periodo": "2023-SE01–2024-SE52",
+    "semanas_calendario": 104,
+    "distritos": 14,
+    "celdas_distrito_semana": 1456,
+    "celdas_con_registros": 594,
+    "celdas_sin_registros": 862,
+    "advertencia": "Las celdas sin registros no equivalen a cero casos verificados ni se usan para entrenar/backtestear."
+  },
+  "disponibilidad_oficial": {
+    "2020-2024": "MINSA/CDC Datos Abiertos publica microdatos 2000–2024; versión indexada del CSV de 103.52 MB, modificada 2025-12-17. No está archivada localmente.",
+    "2025": "DIRIS Lima Centro publica reportes PDF hasta SE53; el CDC Observatorio permite seleccionar datos semanales hasta 2026-SE35. Sin archivo local integrado.",
+    "2026": "CDC Observatorio: corte semanal SE35 (05-09-2026), actualizado 10-09-2026. Sala Diaria CDC: datos agregados confirmados/probables al 20-10-2026. DIRIS: boletines PDF visibles hasta SE29 en la colección revisada. Sin archivo local integrado."
+  },
+  "fuentes": [
+    "https://www.datosabiertos.gob.pe/dataset/vigilancia-epidemiol%C3%B3gica-de-dengue",
+    "https://app7.dge.gob.pe/maps/clima-salud/",
+    "https://app7.dge.gob.pe/maps2/sala_diaria_dengue.html",
+    "https://www.gob.pe/institucion/dirislimacentro/informes-publicaciones/7825010-dengue-2025",
+    "https://www.gob.pe/institucion/dirislimacentro/informes-publicaciones/7636617-boletines-epidemiologicos-2026"
+  ],
+  "limite_integracion": "La salida de red desde Python falló con ConnectionRefusedError y no se dispone de navegador. Los PDF y los acumulados no se transformaron en filas semanales."
+}

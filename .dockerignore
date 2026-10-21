@@ -1,0 +1,12 @@
+.git
+.runtime-envs
+wheelhouse
+dist
+data/raw
+data/processed
+reports/experimento_*
+tests
+docs
+**/__pycache__
+logs
+.env

@@ -1,0 +1,44 @@
+{
+  "version": "v3-fd76eb0311248856",
+  "version_etl": 3,
+  "corte": "2024-SE52",
+  "generado_utc": "2026-10-12T01:04:11.631342+00:00",
+  "sha256_fuente": "35ec0840afa486992fa552a5762fd19eed332b06a2f1d0ea58af73c95bf6fd71",
+  "sha256_datos": "06a1e001123099d5c0d0fb59e2631f4ba21ccca54eaca4e6cc3e91d650c762c9",
+  "calidad": {
+    "total_raw": 528172,
+    "registros_fuente_en_periodo": 18996,
+    "registros_finales": 1456,
+    "filas_fecha_invalida": 0,
+    "coincidencias_exactas_conservadas": 2256,
+    "faltantes": {
+      "departamento": 0,
+      "provincia": 0,
+      "distrito": 0,
+      "localidad": 5430,
+      "enfermedad": 0,
+      "ano": 0,
+      "semana": 0,
+      "diagnostic": 0,
+      "diresa": 0,
+      "ubigeo": 0,
+      "localcod": 4124,
+      "edad": 0,
+      "tipo_edad": 0,
+      "sexo": 0
+    },
+    "completitud_pct": 96.40751436392624,
+    "semanas_sin_registros": 862,
+    "inicio": "2023-SE01",
+    "fin": "2024-SE52",
+    "politica_ceros": "Cero significa ausencia de registros en el archivo, no ausencia confirmada de transmisión. Cobertura de notificación pendiente de validar.",
+    "politica_duplicados": "Se conservan coincidencias sin identificador único de caso.",
+    "fecha_procesamiento": "2026-10-11T20:04:11.625833"
+  },
+  "modo": "reemplazo de histórico completo",
+  "periodo_solicitado": {
+    "desde": 2023,
+    "hasta": null
+  },
+  "filas_fuera_periodo": 501249
+}

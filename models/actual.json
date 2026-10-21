@@ -1,0 +1,11 @@
+{
+  "version": "v3-fd76eb0311248856-22f8bcb2a63d",
+  "datos": "data/versions/v3-fd76eb0311248856/datos.csv",
+  "metadata": "data/versions/v3-fd76eb0311248856/metadata.json",
+  "sha256_datos": "06a1e001123099d5c0d0fb59e2631f4ba21ccca54eaca4e6cc3e91d650c762c9",
+  "modelo": "models/releases/v3-fd76eb0311248856-22f8bcb2a63d/modelo.json",
+  "sha256_modelo": "a96c3d3b0a9afc3cb0d3c13d9d64c67dd24c17906f7684bf5f4d44e79ad074f9",
+  "evaluacion": "models/releases/v3-fd76eb0311248856-22f8bcb2a63d/evaluacion.json",
+  "metodo": "xgb_moderado",
+  "corte": "2024-SE52"
+}

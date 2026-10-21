@@ -1,0 +1,466 @@
+{
+  "periodo_validacion_hasta": "2024-SE22",
+  "periodo_prueba_desde": "2024-SE23",
+  "semanas_validacion": 36,
+  "semanas_prueba": 10,
+  "n_validacion": 278,
+  "n_prueba": 48,
+  "modelo_elegido_solo_en_validacion": "persistencia",
+  "anterior_xgb": {
+    "n": 48,
+    "WAPE_pct": 112.41276058811374,
+    "MAE": 12.505919615427652,
+    "RMSE": 16.77948485855485,
+    "sMAPE_pct": 100.91584525840449,
+    "semanas_error_menor_10_pct": 4.166666666666666,
+    "semanas_con_real_cero": 0
+  },
+  "seleccionado": {
+    "n": 48,
+    "WAPE_pct": 62.172284644194754,
+    "MAE": 6.916666666666667,
+    "RMSE": 14.461154863979571,
+    "sMAPE_pct": 54.12724970128141,
+    "semanas_error_menor_10_pct": 16.666666666666664,
+    "semanas_con_real_cero": 0
+  },
+  "nota": "Prueba temporal final reportada sin ajustar el modelo tras inspeccionar sus resultados. Predicciones OOS: cada semana se entrenó usando solo semanas anteriores.",
+  "errores_mayores": [
+    {
+      "ano": 2024,
+      "semana": 23,
+      "distrito": "San Juan de Lurigancho",
+      "real": 114.0,
+      "modelo_anterior_xgb": 180.36753845214844,
+      "modelo_seleccionado": 187.0,
+      "error_absoluto_seleccionado": 73.0,
+      "error_pct_seleccionado": 64.03508771929825
+    },
+    {
+      "ano": 2024,
+      "semana": 24,
+      "distrito": "San Juan de Lurigancho",
+      "real": 61.0,
+      "modelo_anterior_xgb": 119.45109558105467,
+      "modelo_seleccionado": 114.0,
+      "error_absoluto_seleccionado": 53.0,
+      "error_pct_seleccionado": 86.88524590163934
+    },
+    {
+      "ano": 2024,
+      "semana": 27,
+      "distrito": "San Juan de Lurigancho",
+      "real": 14.0,
+      "modelo_anterior_xgb": 32.96377182006836,
+      "modelo_seleccionado": 34.0,
+      "error_absoluto_seleccionado": 20.0,
+      "error_pct_seleccionado": 142.85714285714286
+    },
+    {
+      "ano": 2024,
+      "semana": 26,
+      "distrito": "San Juan de Lurigancho",
+      "real": 34.0,
+      "modelo_anterior_xgb": 43.12482452392578,
+      "modelo_seleccionado": 48.0,
+      "error_absoluto_seleccionado": 14.0,
+      "error_pct_seleccionado": 41.17647058823529
+    },
+    {
+      "ano": 2024,
+      "semana": 25,
+      "distrito": "Cercado de Lima",
+      "real": 9.0,
+      "modelo_anterior_xgb": 18.2622127532959,
+      "modelo_seleccionado": 23.0,
+      "error_absoluto_seleccionado": 14.0,
+      "error_pct_seleccionado": 155.55555555555557
+    },
+    {
+      "ano": 2024,
+      "semana": 25,
+      "distrito": "San Juan de Lurigancho",
+      "real": 48.0,
+      "modelo_anterior_xgb": 51.4483642578125,
+      "modelo_seleccionado": 61.0,
+      "error_absoluto_seleccionado": 13.0,
+      "error_pct_seleccionado": 27.083333333333332
+    },
+    {
+      "ano": 2024,
+      "semana": 23,
+      "distrito": "Cercado de Lima",
+      "real": 20.0,
+      "modelo_anterior_xgb": 41.27377700805664,
+      "modelo_seleccionado": 32.0,
+      "error_absoluto_seleccionado": 12.0,
+      "error_pct_seleccionado": 60.0
+    },
+    {
+      "ano": 2024,
+      "semana": 24,
+      "distrito": "Breña",
+      "real": 4.0,
+      "modelo_anterior_xgb": 14.912677764892578,
+      "modelo_seleccionado": 14.0,
+      "error_absoluto_seleccionado": 10.0,
+      "error_pct_seleccionado": 250.0
+    },
+    {
+      "ano": 2024,
+      "semana": 25,
+      "distrito": "San Miguel",
+      "real": 3.0,
+      "modelo_anterior_xgb": 14.95673942565918,
+      "modelo_seleccionado": 13.0,
+      "error_absoluto_seleccionado": 10.0,
+      "error_pct_seleccionado": 333.33333333333337
+    },
+    {
+      "ano": 2024,
+      "semana": 24,
+      "distrito": "Magdalena",
+      "real": 4.0,
+      "modelo_anterior_xgb": 14.912677764892578,
+      "modelo_seleccionado": 13.0,
+      "error_absoluto_seleccionado": 9.0,
+      "error_pct_seleccionado": 225.0
+    }
+  ],
+  "errores_porcentuales_mayores": [
+    {
+      "ano": 2024,
+      "semana": 26,
+      "distrito": "Cercado de Lima",
+      "real": 1.0,
+      "modelo_seleccionado": 9.0,
+      "error_pct_seleccionado": 800.0
+    },
+    {
+      "ano": 2024,
+      "semana": 26,
+      "distrito": "Jesús María",
+      "real": 1.0,
+      "modelo_seleccionado": 8.0,
+      "error_pct_seleccionado": 700.0
+    },
+    {
+      "ano": 2024,
+      "semana": 25,
+      "distrito": "San Borja",
+      "real": 1.0,
+      "modelo_seleccionado": 5.0,
+      "error_pct_seleccionado": 400.0
+    },
+    {
+      "ano": 2024,
+      "semana": 25,
+      "distrito": "San Miguel",
+      "real": 3.0,
+      "modelo_seleccionado": 13.0,
+      "error_pct_seleccionado": 333.33333333333337
+    },
+    {
+      "ano": 2024,
+      "semana": 24,
+      "distrito": "Breña",
+      "real": 4.0,
+      "modelo_seleccionado": 14.0,
+      "error_pct_seleccionado": 250.0
+    },
+    {
+      "ano": 2024,
+      "semana": 24,
+      "distrito": "Magdalena",
+      "real": 4.0,
+      "modelo_seleccionado": 13.0,
+      "error_pct_seleccionado": 225.0
+    },
+    {
+      "ano": 2024,
+      "semana": 31,
+      "distrito": "San Juan de Lurigancho",
+      "real": 1.0,
+      "modelo_seleccionado": 3.0,
+      "error_pct_seleccionado": 200.0
+    },
+    {
+      "ano": 2024,
+      "semana": 25,
+      "distrito": "Cercado de Lima",
+      "real": 9.0,
+      "modelo_seleccionado": 23.0,
+      "error_pct_seleccionado": 155.55555555555557
+    },
+    {
+      "ano": 2024,
+      "semana": 26,
+      "distrito": "La Victoria",
+      "real": 2.0,
+      "modelo_seleccionado": 5.0,
+      "error_pct_seleccionado": 150.0
+    },
+    {
+      "ano": 2024,
+      "semana": 27,
+      "distrito": "San Juan de Lurigancho",
+      "real": 14.0,
+      "modelo_seleccionado": 34.0,
+      "error_pct_seleccionado": 142.85714285714286
+    }
+  ],
+  "metricas_por_distrito": [
+    {
+      "distrito": "Breña",
+      "modelo_anterior_xgb": {
+        "n": 3,
+        "WAPE_pct": 107.3098356073553,
+        "MAE": 7.869387944539388,
+        "RMSE": 8.984429396293526,
+        "sMAPE_pct": 80.89714625751502,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 3,
+        "WAPE_pct": 54.54545454545454,
+        "MAE": 4.0,
+        "RMSE": 5.887840577551898,
+        "sMAPE_pct": 42.16524216298731,
+        "semanas_error_menor_10_pct": 33.33333333333333,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "Cercado de Lima",
+      "modelo_anterior_xgb": {
+        "n": 5,
+        "WAPE_pct": 99.69511868660909,
+        "MAE": 11.365243530273435,
+        "RMSE": 13.113427919743595,
+        "sMAPE_pct": 86.38877243826285,
+        "semanas_error_menor_10_pct": 20.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 5,
+        "WAPE_pct": 70.17543859649122,
+        "MAE": 8.0,
+        "RMSE": 9.186947262284681,
+        "sMAPE_pct": 85.52146689639855,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "Jesús María",
+      "modelo_anterior_xgb": {
+        "n": 4,
+        "WAPE_pct": 152.6688814163208,
+        "MAE": 9.160132884979248,
+        "RMSE": 9.49065538104413,
+        "sMAPE_pct": 93.92013208538017,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 4,
+        "WAPE_pct": 70.83333333333334,
+        "MAE": 4.25,
+        "RMSE": 5.361902647381804,
+        "sMAPE_pct": 62.22222221676234,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "La Victoria",
+      "modelo_anterior_xgb": {
+        "n": 5,
+        "WAPE_pct": 290.64314992804276,
+        "MAE": 11.044439697265625,
+        "RMSE": 11.12926479013742,
+        "sMAPE_pct": 121.1685926933948,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 5,
+        "WAPE_pct": 57.89473684210527,
+        "MAE": 2.2,
+        "RMSE": 2.792848008753788,
+        "sMAPE_pct": 44.16383615907317,
+        "semanas_error_menor_10_pct": 20.0,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "Lince",
+      "modelo_anterior_xgb": {
+        "n": 2,
+        "WAPE_pct": 178.64931279962713,
+        "MAE": 9.825712203979492,
+        "RMSE": 9.885651948457554,
+        "sMAPE_pct": 96.13141469902976,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 2,
+        "WAPE_pct": 27.27272727272727,
+        "MAE": 1.5,
+        "RMSE": 2.1213203435596424,
+        "sMAPE_pct": 27.272727270247934,
+        "semanas_error_menor_10_pct": 50.0,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "Magdalena",
+      "modelo_anterior_xgb": {
+        "n": 3,
+        "WAPE_pct": 107.3098356073553,
+        "MAE": 7.869387944539388,
+        "RMSE": 8.674174872685091,
+        "sMAPE_pct": 78.08116737239789,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 3,
+        "WAPE_pct": 72.72727272727273,
+        "MAE": 5.333333333333333,
+        "RMSE": 6.27162924074226,
+        "sMAPE_pct": 62.701525050567064,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "Miraflores",
+      "modelo_anterior_xgb": {
+        "n": 3,
+        "WAPE_pct": 544.9737957545689,
+        "MAE": 12.716055234273275,
+        "RMSE": 12.78892808875895,
+        "sMAPE_pct": 147.90786399425875,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 3,
+        "WAPE_pct": 42.857142857142854,
+        "MAE": 1.0,
+        "RMSE": 1.2909944487358056,
+        "sMAPE_pct": 44.44444443333333,
+        "semanas_error_menor_10_pct": 33.33333333333333,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "Pueblo Libre",
+      "modelo_anterior_xgb": {
+        "n": 3,
+        "WAPE_pct": 42.35302101482046,
+        "MAE": 6.211776415507001,
+        "RMSE": 6.314478183751261,
+        "sMAPE_pct": 42.0711106886118,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 3,
+        "WAPE_pct": 43.18181818181818,
+        "MAE": 6.333333333333333,
+        "RMSE": 6.454972243679028,
+        "sMAPE_pct": 41.543641542184425,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "San Borja",
+      "modelo_anterior_xgb": {
+        "n": 4,
+        "WAPE_pct": 643.9113974571228,
+        "MAE": 12.878227949142456,
+        "RMSE": 12.995680562145912,
+        "sMAPE_pct": 155.9720400561173,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 4,
+        "WAPE_pct": 112.5,
+        "MAE": 2.25,
+        "RMSE": 2.8722813232690143,
+        "sMAPE_pct": 83.33333331666667,
+        "semanas_error_menor_10_pct": 25.0,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "modelo_anterior_xgb": {
+        "n": 10,
+        "WAPE_pct": 73.17626900868873,
+        "MAE": 21.36747055053711,
+        "RMSE": 29.90252032554529,
+        "sMAPE_pct": 84.08905086946295,
+        "semanas_error_menor_10_pct": 10.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 10,
+        "WAPE_pct": 63.6986301369863,
+        "MAE": 18.6,
+        "RMSE": 29.916550603303182,
+        "sMAPE_pct": 50.0554225262444,
+        "semanas_error_menor_10_pct": 10.0,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "San Luis",
+      "modelo_anterior_xgb": {
+        "n": 3,
+        "WAPE_pct": 1404.9388567606607,
+        "MAE": 14.049388567606607,
+        "RMSE": 14.050336141436654,
+        "sMAPE_pct": 175.0743729529526,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 3,
+        "WAPE_pct": 33.33333333333333,
+        "MAE": 0.3333333333333333,
+        "RMSE": 0.5773502691896257,
+        "sMAPE_pct": 22.222222214814817,
+        "semanas_error_menor_10_pct": 66.66666666666666,
+        "semanas_con_real_cero": 0
+      }
+    },
+    {
+      "distrito": "San Miguel",
+      "modelo_anterior_xgb": {
+        "n": 3,
+        "WAPE_pct": 82.43265533447266,
+        "MAE": 6.869387944539388,
+        "RMSE": 8.000680392834637,
+        "sMAPE_pct": 67.11891209641333,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      },
+      "modelo_seleccionado": {
+        "n": 3,
+        "WAPE_pct": 60.0,
+        "MAE": 5.0,
+        "RMSE": 6.244997998398398,
+        "sMAPE_pct": 57.709447411943955,
+        "semanas_error_menor_10_pct": 0.0,
+        "semanas_con_real_cero": 0
+      }
+    }
+  ]
+}

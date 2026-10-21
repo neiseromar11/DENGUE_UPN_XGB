@@ -1,0 +1,85 @@
+{
+  "fecha_revision": "2026-10-21",
+  "cobertura_global_verificada": {
+    "serie_microdatos_compatible_en_archivo_local": "2023-SE01–2024-SE52",
+    "microdatos_oficiales_publicados": "MINSA/CDC 2000–2024; archivo CSV (103.52 MB), actualización indicada 2025-12-17; no descargado al proyecto",
+    "fuentes_oficiales_con_cobertura_reciente": "CDC Observatorio de Clima y Salud semanal por distrito: selector 2018–2026, corte publicado 2026-SE35; CDC Sala Diaria: corte 2026-10-20; DIRIS Lima Centro boletines 2025 y 2026 en PDF",
+    "integrados_2020_2022": false,
+    "integrados_2023_2024": true,
+    "integrados_2025_2026": false,
+    "motivo_brecha": "La descarga directa falló por rechazo de conexión desde este entorno y no hay navegador habilitado. No se extrajeron PDF ni se mezclaron cortes acumulados con registros semanales."
+  },
+  "datos_integrados_nuevos": false,
+  "fuentes": [
+    {
+      "nombre": "Vigilancia Epidemiológica de dengue",
+      "entidad": "MINSA / CDC Perú",
+      "url": "https://www.datosabiertos.gob.pe/dataset/vigilancia-epidemiol%C3%B3gica-de-dengue",
+      "recurso_version_2000_2024": "https://www.datosabiertos.gob.pe/dataset/vigilancia-epidemiol%C3%B3gica-de-dengue/resource/79e21c8d-3a94-4ac5-b234-bace71fe9675",
+      "cobertura_publicada": "2000–2024",
+      "licencia": "Open Data Commons Attribution License",
+      "estado": "Verificado en ficha y resultados indexados; descarga bloqueada desde este entorno (HTTP 403 en lector web y conexión saliente rechazada). No se agregó contenido sin verificar.",
+      "definicion": "Registros de notificación; tipo_dx distingue C confirmado, P probable y S sospechoso. No mezclar categorías sin definir estimando.",
+      "recurso_descargable": "datos_abiertos_vigilancia_dengue_2000_2024.csv"
+    },
+    {
+      "nombre": "Dengue 2024 / Sala Integrada semanal",
+      "entidad": "DIRIS Lima Centro",
+      "url": "https://www.gob.pe/institucion/dirislimacentro/informes-publicaciones/7824541-dengue-2024",
+      "cobertura_publicada": "Boletines semanales de 2024, incluidos cortes SE51–SE52",
+      "licencia": "No declarada en la ficha revisada",
+      "estado": "Ficha verificada; informes PDF (cortes repetidos y acumulados) no descargados ni integrados porque no se pudo comprobar un esquema semanal compatible con los registros MINSA."
+    },
+    {
+      "nombre": "Sala situacional diaria de dengue",
+      "entidad": "CDC Perú / MINSA",
+      "url": "https://app7.dge.gob.pe/maps2/sala_diaria_dengue.html",
+      "cobertura_publicada": "Actualización 2026, hojas Excel por distrito y categoría confirmada/probable",
+      "corte_observado": "2026-10-20",
+      "licencia": "No declarada en la página revisada",
+      "estado": "Panel confirmado y series visibles; descarga Excel con interacción no accesible en este entorno. Valores acumulados diarios no se mezclaron con notificación semanal histórica."
+    },
+    {
+      "nombre": "Observatorio de Clima y Salud · CDC Perú",
+      "entidad": "CDC Perú / MINSA; clima con fuentes SENAMHI declaradas",
+      "url": "https://app7.dge.gob.pe/maps/clima-salud/",
+      "cobertura_publicada": "Selector 2018–2026; casos/episodios semanales detallados por departamento, provincia y distrito; corte 2026-SE35 (05-09-2026), actualización 10-09-2026",
+      "licencia": "No declarada en la página revisada",
+      "estado": "El portal anuncia descarga de bases y monitoreo. No se obtuvo archivo local; queda como fuente candidata, no como variable del modelo. Se requiere revisar fecha de disponibilidad y compatibilidad de variables antes de usarla en backtesting."
+    },
+    {
+      "nombre": "Dengue 2025 · DIRIS Lima Centro",
+      "entidad": "DIRIS Lima Centro",
+      "url": "https://www.gob.pe/institucion/dirislimacentro/informes-publicaciones/7825010-dengue-2025",
+      "cobertura_publicada": "Reportes PDF semanales, 2025-SE01–SE53",
+      "licencia": "No declarada en la ficha",
+      "estado": "Disponibilidad verificada en ficha oficial; no descargados ni integrados por ser PDF con cortes sucesivos."
+    },
+    {
+      "nombre": "Boletines Epidemiológicos 2026 · DIRIS Lima Centro",
+      "entidad": "DIRIS Lima Centro",
+      "url": "https://www.gob.pe/institucion/dirislimacentro/informes-publicaciones/7636617-boletines-epidemiologicos-2026",
+      "cobertura_publicada": "Boletines semanales visibles hasta 2026-SE29 en la ficha revisada",
+      "licencia": "No declarada en la ficha",
+      "estado": "PDF oficiales verificados; no descargados ni integrados."
+    },
+    {
+      "nombre": "Observatorio de clima y salud",
+      "entidad": "CDC Perú; variables meteorológicas con fuentes SENAMHI indicadas por CDC",
+      "url": "https://app7.dge.gob.pe/maps/clima-salud/",
+      "estado": "Verificado como panel; sin archivo/API descargable con correspondencia distrito-semana, por lo que no se usó como predictor."
+    },
+    {
+      "nombre": "Códigos UBIGEO distritales",
+      "entidad": "INEI",
+      "url": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1903/libro.pdf",
+      "estado": "Referencia para validar los 14 códigos geográficos usados por el actualizador de datos; no aporta casos de dengue."
+    }
+  ],
+  "origen_local": {
+    "version": "v3-fd76eb0311248856-22f8bcb2a63d",
+    "cobertura": "2023-SE01–2024-SE52, 14 distritos",
+    "sha256": "06a1e001123099d5c0d0fb59e2631f4ba21ccca54eaca4e6cc3e91d650c762c9",
+    "nota": "El CSV fuente raw no está en la carpeta. La consolidación existente marca 862/1456 distrito-semana como sin registros; esas filas se excluyen del backtest."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "version_datos": "v3-fd76eb0311248856-22f8bcb2a63d",
+  "sha256_datos": "06a1e001123099d5c0d0fb59e2631f4ba21ccca54eaca4e6cc3e91d650c762c9",
+  "version_modelo_walk_forward": "walk-forward-xgb-v1",
+  "horizonte_semanas": 1,
+  "fecha_calculo_utc": "2026-10-21T13:27:23.117994+00:00",
+  "fecha_version_datos_utc": "2026-10-12T01:04:11.631342+00:00",
+  "fecha_descarga_fuente": null,
+  "muestras_oos": 326,
+  "metricas": {
+    "n": 326,
+    "mae": 22.361056348297495,
+    "rmse": 70.86205902797825,
+    "wape": 48.16136607786062,
+    "smape": 72.35202633056113,
+    "dentro_10": 9.815950920245399,
+    "baseline_mae": 12.266871165644172
+  },
+  "metricas_por_distrito": [
+    {
+      "distrito": "Breña",
+      "n_predicciones": 23,
+      "MAE_XGBoost": 9.571432362432065,
+      "MAE_baseline": 4.521739130434782,
+      "RMSE_XGBoost": 11.441758814892165,
+      "WAPE_pct": 67.94535319010416,
+      "dentro_10_pct": 17.391304347826086
+    },
+    {
+      "distrito": "Cercado de Lima",
+      "n_predicciones": 37,
+      "MAE_XGBoost": 14.307494910987648,
+      "MAE_baseline": 11.864864864864865,
+      "RMSE_XGBoost": 18.772305458648095,
+      "WAPE_pct": 30.993987804832727,
+      "dentro_10_pct": 10.81081081081081
+    },
+    {
+      "distrito": "Jesús María",
+      "n_predicciones": 24,
+      "MAE_XGBoost": 8.30023197333018,
+      "MAE_baseline": 4.5,
+      "RMSE_XGBoost": 10.468671185884727,
+      "WAPE_pct": 54.877566765819374,
+      "dentro_10_pct": 20.833333333333336
+    },
+    {
+      "distrito": "La Victoria",
+      "n_predicciones": 31,
+      "MAE_XGBoost": 8.884074611048545,
+      "MAE_baseline": 4.774193548387097,
+      "RMSE_XGBoost": 10.269009374591889,
+      "WAPE_pct": 46.52133664569339,
+      "dentro_10_pct": 9.67741935483871
+    },
+    {
+      "distrito": "Lince",
+      "n_predicciones": 20,
+      "MAE_XGBoost": 8.976390504837036,
+      "MAE_baseline": 3.0,
+      "RMSE_XGBoost": 11.120074702382574,
+      "WAPE_pct": 74.18504549452096,
+      "dentro_10_pct": 5.0
+    },
+    {
+      "distrito": "Magdalena",
+      "n_predicciones": 21,
+      "MAE_XGBoost": 9.136934689113072,
+      "MAE_baseline": 3.857142857142857,
+      "RMSE_XGBoost": 11.38522784865839,
+      "WAPE_pct": 108.40430987083305,
+      "dentro_10_pct": 9.523809523809524
+    },
+    {
+      "distrito": "Miraflores",
+      "n_predicciones": 20,
+      "MAE_XGBoost": 10.55079002380371,
+      "MAE_baseline": 5.5,
+      "RMSE_XGBoost": 11.635584603208828,
+      "WAPE_pct": 132.71433992205925,
+      "dentro_10_pct": 5.0
+    },
+    {
+      "distrito": "Pueblo Libre",
+      "n_predicciones": 21,
+      "MAE_XGBoost": 8.81220090956915,
+      "MAE_baseline": 6.142857142857143,
+      "RMSE_XGBoost": 11.014670198584902,
+      "WAPE_pct": 42.63968182049589,
+      "dentro_10_pct": 9.523809523809524
+    },
+    {
+      "distrito": "San Borja",
+      "n_predicciones": 20,
+      "MAE_XGBoost": 11.08567156791687,
+      "MAE_baseline": 6.65,
+      "RMSE_XGBoost": 12.151669147584991,
+      "WAPE_pct": 95.15597912374996,
+      "dentro_10_pct": 10.0
+    },
+    {
+      "distrito": "San Isidro",
+      "n_predicciones": 11,
+      "MAE_XGBoost": 9.922889362681996,
+      "MAE_baseline": 2.3636363636363638,
+      "RMSE_XGBoost": 10.353913749878853,
+      "WAPE_pct": 170.5496609210968,
+      "dentro_10_pct": 0.0
+    },
+    {
+      "distrito": "San Juan de Lurigancho",
+      "n_predicciones": 44,
+      "MAE_XGBoost": 100.5834400437095,
+      "MAE_baseline": 55.52272727272727,
+      "RMSE_XGBoost": 190.2158339776833,
+      "WAPE_pct": 43.63276507860808,
+      "dentro_10_pct": 4.545454545454546
+    },
+    {
+      "distrito": "San Luis",
+      "n_predicciones": 17,
+      "MAE_XGBoost": 9.965729376849007,
+      "MAE_baseline": 2.2941176470588234,
+      "RMSE_XGBoost": 13.089973870304847,
+      "WAPE_pct": 106.55182352605857,
+      "dentro_10_pct": 17.647058823529413
+    },
+    {
+      "distrito": "San Miguel",
+      "n_predicciones": 21,
+      "MAE_XGBoost": 8.955793925694056,
+      "MAE_baseline": 5.428571428571429,
+      "RMSE_XGBoost": 11.336401830564057,
+      "WAPE_pct": 46.78399811929731,
+      "dentro_10_pct": 9.523809523809524
+    },
+    {
+      "distrito": "Surquillo",
+      "n_predicciones": 16,
+      "MAE_XGBoost": 11.504445433616638,
+      "MAE_baseline": 4.0625,
+      "RMSE_XGBoost": 13.303788584724966,
+      "WAPE_pct": 135.3464168660781,
+      "dentro_10_pct": 6.25
+    }
+  ],
+  "metricas_por_ano": [
+    {
+      "ano": 2023,
+      "n_predicciones": 105,
+      "MAE_XGBoost": 14.527423277355375,
+      "MAE_baseline": 6.304761904761905,
+      "RMSE_XGBoost": 20.55122559105879,
+      "WAPE_pct": 80.24089658718118,
+      "dentro_10_pct": 0.9523809523809524
+    },
+    {
+      "ano": 2024,
+      "n_predicciones": 221,
+      "MAE_XGBoost": 26.08291821458221,
+      "MAE_baseline": 15.099547511312217,
+      "RMSE_XGBoost": 84.89118901407228,
+      "WAPE_pct": 43.553645073084006,
+      "dentro_10_pct": 14.027149321266968
+    }
+  ],
+  "politica_faltantes": "Semanas sin registros excluidas; no interpretadas como cero.",
+  "fuente": "MINSA / CDC Perú, Vigilancia Epidemiológica de dengue",
+  "url": "https://www.datosabiertos.gob.pe/dataset/vigilancia-epidemiol%C3%B3gica-de-dengue",
+  "licencia": "Open Data Commons Attribution License",
+  "cobertura": "Versión local: 2023-SE01 a 2024-SE52; 14 distritos DIRIS Lima Centro.",
+  "notas": "El archivo fuente original no está presente en la carpeta; no se descargaron datos nuevos. SHA-256 de la versión consolidada: el campo sha256_datos permite reproducirla. Estimaciones evaluables solo con cuatro lags semanales consecutivos observados y 20 ejemplos de entrenamiento previos. El CSV contiene únicamente predicciones out-of-sample."
+}

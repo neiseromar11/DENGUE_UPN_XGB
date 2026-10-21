@@ -1,0 +1,1457 @@
+distrito,ano,semana,casos_notificados,sin_registros_fuente,semana_epidemiologica
+San Juan de Lurigancho,2023,1,0,True,2023-SE01
+San Juan de Lurigancho,2023,2,0,True,2023-SE02
+San Juan de Lurigancho,2023,3,0,True,2023-SE03
+San Juan de Lurigancho,2023,4,0,True,2023-SE04
+San Juan de Lurigancho,2023,5,0,True,2023-SE05
+San Juan de Lurigancho,2023,6,0,True,2023-SE06
+San Juan de Lurigancho,2023,7,0,True,2023-SE07
+San Juan de Lurigancho,2023,8,5,False,2023-SE08
+San Juan de Lurigancho,2023,9,2,False,2023-SE09
+San Juan de Lurigancho,2023,10,4,False,2023-SE10
+San Juan de Lurigancho,2023,11,24,False,2023-SE11
+San Juan de Lurigancho,2023,12,59,False,2023-SE12
+San Juan de Lurigancho,2023,13,71,False,2023-SE13
+San Juan de Lurigancho,2023,14,121,False,2023-SE14
+San Juan de Lurigancho,2023,15,193,False,2023-SE15
+San Juan de Lurigancho,2023,16,331,False,2023-SE16
+San Juan de Lurigancho,2023,17,395,False,2023-SE17
+San Juan de Lurigancho,2023,18,482,False,2023-SE18
+San Juan de Lurigancho,2023,19,409,False,2023-SE19
+San Juan de Lurigancho,2023,20,443,False,2023-SE20
+San Juan de Lurigancho,2023,21,432,False,2023-SE21
+San Juan de Lurigancho,2023,22,367,False,2023-SE22
+San Juan de Lurigancho,2023,23,253,False,2023-SE23
+San Juan de Lurigancho,2023,24,192,False,2023-SE24
+San Juan de Lurigancho,2023,25,157,False,2023-SE25
+San Juan de Lurigancho,2023,26,92,False,2023-SE26
+San Juan de Lurigancho,2023,27,99,False,2023-SE27
+San Juan de Lurigancho,2023,28,80,False,2023-SE28
+San Juan de Lurigancho,2023,29,51,False,2023-SE29
+San Juan de Lurigancho,2023,30,37,False,2023-SE30
+San Juan de Lurigancho,2023,31,26,False,2023-SE31
+San Juan de Lurigancho,2023,32,22,False,2023-SE32
+San Juan de Lurigancho,2023,33,10,False,2023-SE33
+San Juan de Lurigancho,2023,34,11,False,2023-SE34
+San Juan de Lurigancho,2023,35,6,False,2023-SE35
+San Juan de Lurigancho,2023,36,5,False,2023-SE36
+San Juan de Lurigancho,2023,37,4,False,2023-SE37
+San Juan de Lurigancho,2023,38,0,True,2023-SE38
+San Juan de Lurigancho,2023,39,2,False,2023-SE39
+San Juan de Lurigancho,2023,40,3,False,2023-SE40
+San Juan de Lurigancho,2023,41,2,False,2023-SE41
+San Juan de Lurigancho,2023,42,1,False,2023-SE42
+San Juan de Lurigancho,2023,43,2,False,2023-SE43
+San Juan de Lurigancho,2023,44,3,False,2023-SE44
+San Juan de Lurigancho,2023,45,0,True,2023-SE45
+San Juan de Lurigancho,2023,46,1,False,2023-SE46
+San Juan de Lurigancho,2023,47,0,True,2023-SE47
+San Juan de Lurigancho,2023,48,0,True,2023-SE48
+San Juan de Lurigancho,2023,49,0,True,2023-SE49
+San Juan de Lurigancho,2023,50,1,False,2023-SE50
+San Juan de Lurigancho,2023,51,1,False,2023-SE51
+San Juan de Lurigancho,2023,52,0,True,2023-SE52
+San Juan de Lurigancho,2024,1,1,False,2024-SE01
+San Juan de Lurigancho,2024,2,0,True,2024-SE02
+San Juan de Lurigancho,2024,3,2,False,2024-SE03
+San Juan de Lurigancho,2024,4,1,False,2024-SE04
+San Juan de Lurigancho,2024,5,3,False,2024-SE05
+San Juan de Lurigancho,2024,6,20,False,2024-SE06
+San Juan de Lurigancho,2024,7,32,False,2024-SE07
+San Juan de Lurigancho,2024,8,84,False,2024-SE08
+San Juan de Lurigancho,2024,9,136,False,2024-SE09
+San Juan de Lurigancho,2024,10,219,False,2024-SE10
+San Juan de Lurigancho,2024,11,311,False,2024-SE11
+San Juan de Lurigancho,2024,12,468,False,2024-SE12
+San Juan de Lurigancho,2024,13,584,False,2024-SE13
+San Juan de Lurigancho,2024,14,781,False,2024-SE14
+San Juan de Lurigancho,2024,15,1008,False,2024-SE15
+San Juan de Lurigancho,2024,16,1009,False,2024-SE16
+San Juan de Lurigancho,2024,17,908,False,2024-SE17
+San Juan de Lurigancho,2024,18,840,False,2024-SE18
+San Juan de Lurigancho,2024,19,805,False,2024-SE19
+San Juan de Lurigancho,2024,20,543,False,2024-SE20
+San Juan de Lurigancho,2024,21,519,False,2024-SE21
+San Juan de Lurigancho,2024,22,187,False,2024-SE22
+San Juan de Lurigancho,2024,23,114,False,2024-SE23
+San Juan de Lurigancho,2024,24,61,False,2024-SE24
+San Juan de Lurigancho,2024,25,48,False,2024-SE25
+San Juan de Lurigancho,2024,26,34,False,2024-SE26
+San Juan de Lurigancho,2024,27,14,False,2024-SE27
+San Juan de Lurigancho,2024,28,9,False,2024-SE28
+San Juan de Lurigancho,2024,29,6,False,2024-SE29
+San Juan de Lurigancho,2024,30,3,False,2024-SE30
+San Juan de Lurigancho,2024,31,1,False,2024-SE31
+San Juan de Lurigancho,2024,32,0,True,2024-SE32
+San Juan de Lurigancho,2024,33,3,False,2024-SE33
+San Juan de Lurigancho,2024,34,1,False,2024-SE34
+San Juan de Lurigancho,2024,35,1,False,2024-SE35
+San Juan de Lurigancho,2024,36,2,False,2024-SE36
+San Juan de Lurigancho,2024,37,2,False,2024-SE37
+San Juan de Lurigancho,2024,38,0,True,2024-SE38
+San Juan de Lurigancho,2024,39,1,False,2024-SE39
+San Juan de Lurigancho,2024,40,0,True,2024-SE40
+San Juan de Lurigancho,2024,41,1,False,2024-SE41
+San Juan de Lurigancho,2024,42,0,True,2024-SE42
+San Juan de Lurigancho,2024,43,0,True,2024-SE43
+San Juan de Lurigancho,2024,44,1,False,2024-SE44
+San Juan de Lurigancho,2024,45,1,False,2024-SE45
+San Juan de Lurigancho,2024,46,1,False,2024-SE46
+San Juan de Lurigancho,2024,47,0,True,2024-SE47
+San Juan de Lurigancho,2024,48,0,True,2024-SE48
+San Juan de Lurigancho,2024,49,0,True,2024-SE49
+San Juan de Lurigancho,2024,50,2,False,2024-SE50
+San Juan de Lurigancho,2024,51,1,False,2024-SE51
+San Juan de Lurigancho,2024,52,2,False,2024-SE52
+San Borja,2023,1,0,True,2023-SE01
+San Borja,2023,2,0,True,2023-SE02
+San Borja,2023,3,0,True,2023-SE03
+San Borja,2023,4,0,True,2023-SE04
+San Borja,2023,5,0,True,2023-SE05
+San Borja,2023,6,0,True,2023-SE06
+San Borja,2023,7,0,True,2023-SE07
+San Borja,2023,8,0,True,2023-SE08
+San Borja,2023,9,2,False,2023-SE09
+San Borja,2023,10,0,True,2023-SE10
+San Borja,2023,11,0,True,2023-SE11
+San Borja,2023,12,0,True,2023-SE12
+San Borja,2023,13,2,False,2023-SE13
+San Borja,2023,14,0,True,2023-SE14
+San Borja,2023,15,2,False,2023-SE15
+San Borja,2023,16,1,False,2023-SE16
+San Borja,2023,17,1,False,2023-SE17
+San Borja,2023,18,4,False,2023-SE18
+San Borja,2023,19,0,True,2023-SE19
+San Borja,2023,20,5,False,2023-SE20
+San Borja,2023,21,2,False,2023-SE21
+San Borja,2023,22,3,False,2023-SE22
+San Borja,2023,23,7,False,2023-SE23
+San Borja,2023,24,4,False,2023-SE24
+San Borja,2023,25,1,False,2023-SE25
+San Borja,2023,26,2,False,2023-SE26
+San Borja,2023,27,5,False,2023-SE27
+San Borja,2023,28,2,False,2023-SE28
+San Borja,2023,29,0,True,2023-SE29
+San Borja,2023,30,1,False,2023-SE30
+San Borja,2023,31,1,False,2023-SE31
+San Borja,2023,32,0,True,2023-SE32
+San Borja,2023,33,0,True,2023-SE33
+San Borja,2023,34,0,True,2023-SE34
+San Borja,2023,35,0,True,2023-SE35
+San Borja,2023,36,0,True,2023-SE36
+San Borja,2023,37,0,True,2023-SE37
+San Borja,2023,38,0,True,2023-SE38
+San Borja,2023,39,0,True,2023-SE39
+San Borja,2023,40,0,True,2023-SE40
+San Borja,2023,41,0,True,2023-SE41
+San Borja,2023,42,0,True,2023-SE42
+San Borja,2023,43,0,True,2023-SE43
+San Borja,2023,44,0,True,2023-SE44
+San Borja,2023,45,0,True,2023-SE45
+San Borja,2023,46,0,True,2023-SE46
+San Borja,2023,47,0,True,2023-SE47
+San Borja,2023,48,0,True,2023-SE48
+San Borja,2023,49,0,True,2023-SE49
+San Borja,2023,50,0,True,2023-SE50
+San Borja,2023,51,0,True,2023-SE51
+San Borja,2023,52,0,True,2023-SE52
+San Borja,2024,1,0,True,2024-SE01
+San Borja,2024,2,0,True,2024-SE02
+San Borja,2024,3,0,True,2024-SE03
+San Borja,2024,4,0,True,2024-SE04
+San Borja,2024,5,0,True,2024-SE05
+San Borja,2024,6,0,True,2024-SE06
+San Borja,2024,7,0,True,2024-SE07
+San Borja,2024,8,3,False,2024-SE08
+San Borja,2024,9,7,False,2024-SE09
+San Borja,2024,10,17,False,2024-SE10
+San Borja,2024,11,15,False,2024-SE11
+San Borja,2024,12,20,False,2024-SE12
+San Borja,2024,13,18,False,2024-SE13
+San Borja,2024,14,39,False,2024-SE14
+San Borja,2024,15,20,False,2024-SE15
+San Borja,2024,16,39,False,2024-SE16
+San Borja,2024,17,21,False,2024-SE17
+San Borja,2024,18,24,False,2024-SE18
+San Borja,2024,19,13,False,2024-SE19
+San Borja,2024,20,7,False,2024-SE20
+San Borja,2024,21,8,False,2024-SE21
+San Borja,2024,22,2,False,2024-SE22
+San Borja,2024,23,1,False,2024-SE23
+San Borja,2024,24,5,False,2024-SE24
+San Borja,2024,25,1,False,2024-SE25
+San Borja,2024,26,1,False,2024-SE26
+San Borja,2024,27,0,True,2024-SE27
+San Borja,2024,28,1,False,2024-SE28
+San Borja,2024,29,0,True,2024-SE29
+San Borja,2024,30,0,True,2024-SE30
+San Borja,2024,31,1,False,2024-SE31
+San Borja,2024,32,0,True,2024-SE32
+San Borja,2024,33,0,True,2024-SE33
+San Borja,2024,34,0,True,2024-SE34
+San Borja,2024,35,0,True,2024-SE35
+San Borja,2024,36,0,True,2024-SE36
+San Borja,2024,37,0,True,2024-SE37
+San Borja,2024,38,0,True,2024-SE38
+San Borja,2024,39,0,True,2024-SE39
+San Borja,2024,40,0,True,2024-SE40
+San Borja,2024,41,0,True,2024-SE41
+San Borja,2024,42,0,True,2024-SE42
+San Borja,2024,43,0,True,2024-SE43
+San Borja,2024,44,0,True,2024-SE44
+San Borja,2024,45,0,True,2024-SE45
+San Borja,2024,46,0,True,2024-SE46
+San Borja,2024,47,0,True,2024-SE47
+San Borja,2024,48,0,True,2024-SE48
+San Borja,2024,49,0,True,2024-SE49
+San Borja,2024,50,0,True,2024-SE50
+San Borja,2024,51,0,True,2024-SE51
+San Borja,2024,52,0,True,2024-SE52
+Cercado de Lima,2023,1,0,True,2023-SE01
+Cercado de Lima,2023,2,0,True,2023-SE02
+Cercado de Lima,2023,3,0,True,2023-SE03
+Cercado de Lima,2023,4,0,True,2023-SE04
+Cercado de Lima,2023,5,0,True,2023-SE05
+Cercado de Lima,2023,6,0,True,2023-SE06
+Cercado de Lima,2023,7,0,True,2023-SE07
+Cercado de Lima,2023,8,1,False,2023-SE08
+Cercado de Lima,2023,9,0,True,2023-SE09
+Cercado de Lima,2023,10,0,True,2023-SE10
+Cercado de Lima,2023,11,0,True,2023-SE11
+Cercado de Lima,2023,12,1,False,2023-SE12
+Cercado de Lima,2023,13,0,True,2023-SE13
+Cercado de Lima,2023,14,0,True,2023-SE14
+Cercado de Lima,2023,15,1,False,2023-SE15
+Cercado de Lima,2023,16,4,False,2023-SE16
+Cercado de Lima,2023,17,1,False,2023-SE17
+Cercado de Lima,2023,18,11,False,2023-SE18
+Cercado de Lima,2023,19,21,False,2023-SE19
+Cercado de Lima,2023,20,35,False,2023-SE20
+Cercado de Lima,2023,21,34,False,2023-SE21
+Cercado de Lima,2023,22,46,False,2023-SE22
+Cercado de Lima,2023,23,35,False,2023-SE23
+Cercado de Lima,2023,24,29,False,2023-SE24
+Cercado de Lima,2023,25,19,False,2023-SE25
+Cercado de Lima,2023,26,16,False,2023-SE26
+Cercado de Lima,2023,27,18,False,2023-SE27
+Cercado de Lima,2023,28,11,False,2023-SE28
+Cercado de Lima,2023,29,12,False,2023-SE29
+Cercado de Lima,2023,30,10,False,2023-SE30
+Cercado de Lima,2023,31,8,False,2023-SE31
+Cercado de Lima,2023,32,15,False,2023-SE32
+Cercado de Lima,2023,33,4,False,2023-SE33
+Cercado de Lima,2023,34,3,False,2023-SE34
+Cercado de Lima,2023,35,2,False,2023-SE35
+Cercado de Lima,2023,36,1,False,2023-SE36
+Cercado de Lima,2023,37,1,False,2023-SE37
+Cercado de Lima,2023,38,2,False,2023-SE38
+Cercado de Lima,2023,39,1,False,2023-SE39
+Cercado de Lima,2023,40,0,True,2023-SE40
+Cercado de Lima,2023,41,1,False,2023-SE41
+Cercado de Lima,2023,42,1,False,2023-SE42
+Cercado de Lima,2023,43,1,False,2023-SE43
+Cercado de Lima,2023,44,0,True,2023-SE44
+Cercado de Lima,2023,45,0,True,2023-SE45
+Cercado de Lima,2023,46,2,False,2023-SE46
+Cercado de Lima,2023,47,0,True,2023-SE47
+Cercado de Lima,2023,48,0,True,2023-SE48
+Cercado de Lima,2023,49,0,True,2023-SE49
+Cercado de Lima,2023,50,0,True,2023-SE50
+Cercado de Lima,2023,51,0,True,2023-SE51
+Cercado de Lima,2023,52,2,False,2023-SE52
+Cercado de Lima,2024,1,0,True,2024-SE01
+Cercado de Lima,2024,2,0,True,2024-SE02
+Cercado de Lima,2024,3,0,True,2024-SE03
+Cercado de Lima,2024,4,0,True,2024-SE04
+Cercado de Lima,2024,5,4,False,2024-SE05
+Cercado de Lima,2024,6,3,False,2024-SE06
+Cercado de Lima,2024,7,4,False,2024-SE07
+Cercado de Lima,2024,8,24,False,2024-SE08
+Cercado de Lima,2024,9,30,False,2024-SE09
+Cercado de Lima,2024,10,42,False,2024-SE10
+Cercado de Lima,2024,11,75,False,2024-SE11
+Cercado de Lima,2024,12,85,False,2024-SE12
+Cercado de Lima,2024,13,111,False,2024-SE13
+Cercado de Lima,2024,14,147,False,2024-SE14
+Cercado de Lima,2024,15,132,False,2024-SE15
+Cercado de Lima,2024,16,173,False,2024-SE16
+Cercado de Lima,2024,17,159,False,2024-SE17
+Cercado de Lima,2024,18,142,False,2024-SE18
+Cercado de Lima,2024,19,122,False,2024-SE19
+Cercado de Lima,2024,20,108,False,2024-SE20
+Cercado de Lima,2024,21,60,False,2024-SE21
+Cercado de Lima,2024,22,32,False,2024-SE22
+Cercado de Lima,2024,23,20,False,2024-SE23
+Cercado de Lima,2024,24,23,False,2024-SE24
+Cercado de Lima,2024,25,9,False,2024-SE25
+Cercado de Lima,2024,26,1,False,2024-SE26
+Cercado de Lima,2024,27,4,False,2024-SE27
+Cercado de Lima,2024,28,0,True,2024-SE28
+Cercado de Lima,2024,29,1,False,2024-SE29
+Cercado de Lima,2024,30,0,True,2024-SE30
+Cercado de Lima,2024,31,0,True,2024-SE31
+Cercado de Lima,2024,32,0,True,2024-SE32
+Cercado de Lima,2024,33,1,False,2024-SE33
+Cercado de Lima,2024,34,1,False,2024-SE34
+Cercado de Lima,2024,35,0,True,2024-SE35
+Cercado de Lima,2024,36,1,False,2024-SE36
+Cercado de Lima,2024,37,0,True,2024-SE37
+Cercado de Lima,2024,38,0,True,2024-SE38
+Cercado de Lima,2024,39,0,True,2024-SE39
+Cercado de Lima,2024,40,0,True,2024-SE40
+Cercado de Lima,2024,41,0,True,2024-SE41
+Cercado de Lima,2024,42,0,True,2024-SE42
+Cercado de Lima,2024,43,0,True,2024-SE43
+Cercado de Lima,2024,44,0,True,2024-SE44
+Cercado de Lima,2024,45,2,False,2024-SE45
+Cercado de Lima,2024,46,0,True,2024-SE46
+Cercado de Lima,2024,47,0,True,2024-SE47
+Cercado de Lima,2024,48,0,True,2024-SE48
+Cercado de Lima,2024,49,0,True,2024-SE49
+Cercado de Lima,2024,50,0,True,2024-SE50
+Cercado de Lima,2024,51,1,False,2024-SE51
+Cercado de Lima,2024,52,1,False,2024-SE52
+La Victoria,2023,1,0,True,2023-SE01
+La Victoria,2023,2,0,True,2023-SE02
+La Victoria,2023,3,0,True,2023-SE03
+La Victoria,2023,4,0,True,2023-SE04
+La Victoria,2023,5,0,True,2023-SE05
+La Victoria,2023,6,0,True,2023-SE06
+La Victoria,2023,7,0,True,2023-SE07
+La Victoria,2023,8,0,True,2023-SE08
+La Victoria,2023,9,0,True,2023-SE09
+La Victoria,2023,10,0,True,2023-SE10
+La Victoria,2023,11,0,True,2023-SE11
+La Victoria,2023,12,0,True,2023-SE12
+La Victoria,2023,13,1,False,2023-SE13
+La Victoria,2023,14,1,False,2023-SE14
+La Victoria,2023,15,1,False,2023-SE15
+La Victoria,2023,16,2,False,2023-SE16
+La Victoria,2023,17,6,False,2023-SE17
+La Victoria,2023,18,14,False,2023-SE18
+La Victoria,2023,19,8,False,2023-SE19
+La Victoria,2023,20,10,False,2023-SE20
+La Victoria,2023,21,7,False,2023-SE21
+La Victoria,2023,22,8,False,2023-SE22
+La Victoria,2023,23,9,False,2023-SE23
+La Victoria,2023,24,7,False,2023-SE24
+La Victoria,2023,25,8,False,2023-SE25
+La Victoria,2023,26,6,False,2023-SE26
+La Victoria,2023,27,2,False,2023-SE27
+La Victoria,2023,28,3,False,2023-SE28
+La Victoria,2023,29,1,False,2023-SE29
+La Victoria,2023,30,2,False,2023-SE30
+La Victoria,2023,31,1,False,2023-SE31
+La Victoria,2023,32,3,False,2023-SE32
+La Victoria,2023,33,2,False,2023-SE33
+La Victoria,2023,34,0,True,2023-SE34
+La Victoria,2023,35,1,False,2023-SE35
+La Victoria,2023,36,1,False,2023-SE36
+La Victoria,2023,37,3,False,2023-SE37
+La Victoria,2023,38,0,True,2023-SE38
+La Victoria,2023,39,0,True,2023-SE39
+La Victoria,2023,40,0,True,2023-SE40
+La Victoria,2023,41,0,True,2023-SE41
+La Victoria,2023,42,0,True,2023-SE42
+La Victoria,2023,43,0,True,2023-SE43
+La Victoria,2023,44,2,False,2023-SE44
+La Victoria,2023,45,0,True,2023-SE45
+La Victoria,2023,46,0,True,2023-SE46
+La Victoria,2023,47,0,True,2023-SE47
+La Victoria,2023,48,0,True,2023-SE48
+La Victoria,2023,49,0,True,2023-SE49
+La Victoria,2023,50,0,True,2023-SE50
+La Victoria,2023,51,0,True,2023-SE51
+La Victoria,2023,52,0,True,2023-SE52
+La Victoria,2024,1,0,True,2024-SE01
+La Victoria,2024,2,0,True,2024-SE02
+La Victoria,2024,3,2,False,2024-SE03
+La Victoria,2024,4,0,True,2024-SE04
+La Victoria,2024,5,1,False,2024-SE05
+La Victoria,2024,6,4,False,2024-SE06
+La Victoria,2024,7,3,False,2024-SE07
+La Victoria,2024,8,7,False,2024-SE08
+La Victoria,2024,9,19,False,2024-SE09
+La Victoria,2024,10,21,False,2024-SE10
+La Victoria,2024,11,34,False,2024-SE11
+La Victoria,2024,12,39,False,2024-SE12
+La Victoria,2024,13,39,False,2024-SE13
+La Victoria,2024,14,43,False,2024-SE14
+La Victoria,2024,15,44,False,2024-SE15
+La Victoria,2024,16,57,False,2024-SE16
+La Victoria,2024,17,47,False,2024-SE17
+La Victoria,2024,18,57,False,2024-SE18
+La Victoria,2024,19,44,False,2024-SE19
+La Victoria,2024,20,43,False,2024-SE20
+La Victoria,2024,21,25,False,2024-SE21
+La Victoria,2024,22,9,False,2024-SE22
+La Victoria,2024,23,4,False,2024-SE23
+La Victoria,2024,24,6,False,2024-SE24
+La Victoria,2024,25,5,False,2024-SE25
+La Victoria,2024,26,2,False,2024-SE26
+La Victoria,2024,27,2,False,2024-SE27
+La Victoria,2024,28,0,True,2024-SE28
+La Victoria,2024,29,1,False,2024-SE29
+La Victoria,2024,30,0,True,2024-SE30
+La Victoria,2024,31,0,True,2024-SE31
+La Victoria,2024,32,0,True,2024-SE32
+La Victoria,2024,33,0,True,2024-SE33
+La Victoria,2024,34,0,True,2024-SE34
+La Victoria,2024,35,0,True,2024-SE35
+La Victoria,2024,36,1,False,2024-SE36
+La Victoria,2024,37,0,True,2024-SE37
+La Victoria,2024,38,0,True,2024-SE38
+La Victoria,2024,39,0,True,2024-SE39
+La Victoria,2024,40,0,True,2024-SE40
+La Victoria,2024,41,0,True,2024-SE41
+La Victoria,2024,42,0,True,2024-SE42
+La Victoria,2024,43,0,True,2024-SE43
+La Victoria,2024,44,0,True,2024-SE44
+La Victoria,2024,45,0,True,2024-SE45
+La Victoria,2024,46,0,True,2024-SE46
+La Victoria,2024,47,0,True,2024-SE47
+La Victoria,2024,48,0,True,2024-SE48
+La Victoria,2024,49,0,True,2024-SE49
+La Victoria,2024,50,0,True,2024-SE50
+La Victoria,2024,51,0,True,2024-SE51
+La Victoria,2024,52,0,True,2024-SE52
+Breña,2023,1,0,True,2023-SE01
+Breña,2023,2,0,True,2023-SE02
+Breña,2023,3,0,True,2023-SE03
+Breña,2023,4,0,True,2023-SE04
+Breña,2023,5,0,True,2023-SE05
+Breña,2023,6,0,True,2023-SE06
+Breña,2023,7,0,True,2023-SE07
+Breña,2023,8,0,True,2023-SE08
+Breña,2023,9,0,True,2023-SE09
+Breña,2023,10,0,True,2023-SE10
+Breña,2023,11,0,True,2023-SE11
+Breña,2023,12,0,True,2023-SE12
+Breña,2023,13,0,True,2023-SE13
+Breña,2023,14,0,True,2023-SE14
+Breña,2023,15,1,False,2023-SE15
+Breña,2023,16,1,False,2023-SE16
+Breña,2023,17,0,True,2023-SE17
+Breña,2023,18,1,False,2023-SE18
+Breña,2023,19,4,False,2023-SE19
+Breña,2023,20,4,False,2023-SE20
+Breña,2023,21,2,False,2023-SE21
+Breña,2023,22,8,False,2023-SE22
+Breña,2023,23,3,False,2023-SE23
+Breña,2023,24,4,False,2023-SE24
+Breña,2023,25,3,False,2023-SE25
+Breña,2023,26,4,False,2023-SE26
+Breña,2023,27,4,False,2023-SE27
+Breña,2023,28,1,False,2023-SE28
+Breña,2023,29,1,False,2023-SE29
+Breña,2023,30,0,True,2023-SE30
+Breña,2023,31,0,True,2023-SE31
+Breña,2023,32,0,True,2023-SE32
+Breña,2023,33,2,False,2023-SE33
+Breña,2023,34,0,True,2023-SE34
+Breña,2023,35,0,True,2023-SE35
+Breña,2023,36,0,True,2023-SE36
+Breña,2023,37,0,True,2023-SE37
+Breña,2023,38,0,True,2023-SE38
+Breña,2023,39,0,True,2023-SE39
+Breña,2023,40,0,True,2023-SE40
+Breña,2023,41,0,True,2023-SE41
+Breña,2023,42,0,True,2023-SE42
+Breña,2023,43,0,True,2023-SE43
+Breña,2023,44,0,True,2023-SE44
+Breña,2023,45,0,True,2023-SE45
+Breña,2023,46,0,True,2023-SE46
+Breña,2023,47,0,True,2023-SE47
+Breña,2023,48,0,True,2023-SE48
+Breña,2023,49,0,True,2023-SE49
+Breña,2023,50,0,True,2023-SE50
+Breña,2023,51,0,True,2023-SE51
+Breña,2023,52,0,True,2023-SE52
+Breña,2024,1,1,False,2024-SE01
+Breña,2024,2,0,True,2024-SE02
+Breña,2024,3,0,True,2024-SE03
+Breña,2024,4,0,True,2024-SE04
+Breña,2024,5,0,True,2024-SE05
+Breña,2024,6,0,True,2024-SE06
+Breña,2024,7,2,False,2024-SE07
+Breña,2024,8,4,False,2024-SE08
+Breña,2024,9,7,False,2024-SE09
+Breña,2024,10,21,False,2024-SE10
+Breña,2024,11,15,False,2024-SE11
+Breña,2024,12,13,False,2024-SE12
+Breña,2024,13,24,False,2024-SE13
+Breña,2024,14,33,False,2024-SE14
+Breña,2024,15,26,False,2024-SE15
+Breña,2024,16,29,False,2024-SE16
+Breña,2024,17,29,False,2024-SE17
+Breña,2024,18,31,False,2024-SE18
+Breña,2024,19,34,False,2024-SE19
+Breña,2024,20,21,False,2024-SE20
+Breña,2024,21,7,False,2024-SE21
+Breña,2024,22,12,False,2024-SE22
+Breña,2024,23,14,False,2024-SE23
+Breña,2024,24,4,False,2024-SE24
+Breña,2024,25,4,False,2024-SE25
+Breña,2024,26,0,True,2024-SE26
+Breña,2024,27,0,True,2024-SE27
+Breña,2024,28,0,True,2024-SE28
+Breña,2024,29,0,True,2024-SE29
+Breña,2024,30,0,True,2024-SE30
+Breña,2024,31,0,True,2024-SE31
+Breña,2024,32,0,True,2024-SE32
+Breña,2024,33,0,True,2024-SE33
+Breña,2024,34,0,True,2024-SE34
+Breña,2024,35,1,False,2024-SE35
+Breña,2024,36,0,True,2024-SE36
+Breña,2024,37,0,True,2024-SE37
+Breña,2024,38,0,True,2024-SE38
+Breña,2024,39,0,True,2024-SE39
+Breña,2024,40,0,True,2024-SE40
+Breña,2024,41,0,True,2024-SE41
+Breña,2024,42,0,True,2024-SE42
+Breña,2024,43,0,True,2024-SE43
+Breña,2024,44,1,False,2024-SE44
+Breña,2024,45,0,True,2024-SE45
+Breña,2024,46,0,True,2024-SE46
+Breña,2024,47,0,True,2024-SE47
+Breña,2024,48,0,True,2024-SE48
+Breña,2024,49,0,True,2024-SE49
+Breña,2024,50,0,True,2024-SE50
+Breña,2024,51,0,True,2024-SE51
+Breña,2024,52,0,True,2024-SE52
+San Luis,2023,1,0,True,2023-SE01
+San Luis,2023,2,0,True,2023-SE02
+San Luis,2023,3,0,True,2023-SE03
+San Luis,2023,4,0,True,2023-SE04
+San Luis,2023,5,0,True,2023-SE05
+San Luis,2023,6,0,True,2023-SE06
+San Luis,2023,7,0,True,2023-SE07
+San Luis,2023,8,0,True,2023-SE08
+San Luis,2023,9,0,True,2023-SE09
+San Luis,2023,10,0,True,2023-SE10
+San Luis,2023,11,0,True,2023-SE11
+San Luis,2023,12,0,True,2023-SE12
+San Luis,2023,13,0,True,2023-SE13
+San Luis,2023,14,0,True,2023-SE14
+San Luis,2023,15,0,True,2023-SE15
+San Luis,2023,16,0,True,2023-SE16
+San Luis,2023,17,1,False,2023-SE17
+San Luis,2023,18,2,False,2023-SE18
+San Luis,2023,19,1,False,2023-SE19
+San Luis,2023,20,6,False,2023-SE20
+San Luis,2023,21,1,False,2023-SE21
+San Luis,2023,22,1,False,2023-SE22
+San Luis,2023,23,2,False,2023-SE23
+San Luis,2023,24,2,False,2023-SE24
+San Luis,2023,25,0,True,2023-SE25
+San Luis,2023,26,2,False,2023-SE26
+San Luis,2023,27,0,True,2023-SE27
+San Luis,2023,28,0,True,2023-SE28
+San Luis,2023,29,0,True,2023-SE29
+San Luis,2023,30,0,True,2023-SE30
+San Luis,2023,31,0,True,2023-SE31
+San Luis,2023,32,1,False,2023-SE32
+San Luis,2023,33,0,True,2023-SE33
+San Luis,2023,34,0,True,2023-SE34
+San Luis,2023,35,0,True,2023-SE35
+San Luis,2023,36,0,True,2023-SE36
+San Luis,2023,37,0,True,2023-SE37
+San Luis,2023,38,0,True,2023-SE38
+San Luis,2023,39,0,True,2023-SE39
+San Luis,2023,40,0,True,2023-SE40
+San Luis,2023,41,0,True,2023-SE41
+San Luis,2023,42,0,True,2023-SE42
+San Luis,2023,43,0,True,2023-SE43
+San Luis,2023,44,0,True,2023-SE44
+San Luis,2023,45,0,True,2023-SE45
+San Luis,2023,46,0,True,2023-SE46
+San Luis,2023,47,0,True,2023-SE47
+San Luis,2023,48,0,True,2023-SE48
+San Luis,2023,49,0,True,2023-SE49
+San Luis,2023,50,0,True,2023-SE50
+San Luis,2023,51,0,True,2023-SE51
+San Luis,2023,52,0,True,2023-SE52
+San Luis,2024,1,0,True,2024-SE01
+San Luis,2024,2,0,True,2024-SE02
+San Luis,2024,3,0,True,2024-SE03
+San Luis,2024,4,0,True,2024-SE04
+San Luis,2024,5,1,False,2024-SE05
+San Luis,2024,6,2,False,2024-SE06
+San Luis,2024,7,0,True,2024-SE07
+San Luis,2024,8,5,False,2024-SE08
+San Luis,2024,9,5,False,2024-SE09
+San Luis,2024,10,5,False,2024-SE10
+San Luis,2024,11,13,False,2024-SE11
+San Luis,2024,12,16,False,2024-SE12
+San Luis,2024,13,20,False,2024-SE13
+San Luis,2024,14,21,False,2024-SE14
+San Luis,2024,15,15,False,2024-SE15
+San Luis,2024,16,17,False,2024-SE16
+San Luis,2024,17,17,False,2024-SE17
+San Luis,2024,18,17,False,2024-SE18
+San Luis,2024,19,11,False,2024-SE19
+San Luis,2024,20,6,False,2024-SE20
+San Luis,2024,21,9,False,2024-SE21
+San Luis,2024,22,2,False,2024-SE22
+San Luis,2024,23,1,False,2024-SE23
+San Luis,2024,24,1,False,2024-SE24
+San Luis,2024,25,1,False,2024-SE25
+San Luis,2024,26,0,True,2024-SE26
+San Luis,2024,27,0,True,2024-SE27
+San Luis,2024,28,0,True,2024-SE28
+San Luis,2024,29,0,True,2024-SE29
+San Luis,2024,30,0,True,2024-SE30
+San Luis,2024,31,0,True,2024-SE31
+San Luis,2024,32,0,True,2024-SE32
+San Luis,2024,33,0,True,2024-SE33
+San Luis,2024,34,0,True,2024-SE34
+San Luis,2024,35,0,True,2024-SE35
+San Luis,2024,36,0,True,2024-SE36
+San Luis,2024,37,0,True,2024-SE37
+San Luis,2024,38,0,True,2024-SE38
+San Luis,2024,39,0,True,2024-SE39
+San Luis,2024,40,0,True,2024-SE40
+San Luis,2024,41,0,True,2024-SE41
+San Luis,2024,42,0,True,2024-SE42
+San Luis,2024,43,0,True,2024-SE43
+San Luis,2024,44,0,True,2024-SE44
+San Luis,2024,45,0,True,2024-SE45
+San Luis,2024,46,0,True,2024-SE46
+San Luis,2024,47,0,True,2024-SE47
+San Luis,2024,48,0,True,2024-SE48
+San Luis,2024,49,1,False,2024-SE49
+San Luis,2024,50,0,True,2024-SE50
+San Luis,2024,51,0,True,2024-SE51
+San Luis,2024,52,0,True,2024-SE52
+Jesús María,2023,1,0,True,2023-SE01
+Jesús María,2023,2,0,True,2023-SE02
+Jesús María,2023,3,0,True,2023-SE03
+Jesús María,2023,4,0,True,2023-SE04
+Jesús María,2023,5,0,True,2023-SE05
+Jesús María,2023,6,0,True,2023-SE06
+Jesús María,2023,7,0,True,2023-SE07
+Jesús María,2023,8,0,True,2023-SE08
+Jesús María,2023,9,0,True,2023-SE09
+Jesús María,2023,10,0,True,2023-SE10
+Jesús María,2023,11,0,True,2023-SE11
+Jesús María,2023,12,0,True,2023-SE12
+Jesús María,2023,13,0,True,2023-SE13
+Jesús María,2023,14,0,True,2023-SE14
+Jesús María,2023,15,3,False,2023-SE15
+Jesús María,2023,16,0,True,2023-SE16
+Jesús María,2023,17,1,False,2023-SE17
+Jesús María,2023,18,4,False,2023-SE18
+Jesús María,2023,19,7,False,2023-SE19
+Jesús María,2023,20,9,False,2023-SE20
+Jesús María,2023,21,14,False,2023-SE21
+Jesús María,2023,22,7,False,2023-SE22
+Jesús María,2023,23,3,False,2023-SE23
+Jesús María,2023,24,10,False,2023-SE24
+Jesús María,2023,25,3,False,2023-SE25
+Jesús María,2023,26,5,False,2023-SE26
+Jesús María,2023,27,4,False,2023-SE27
+Jesús María,2023,28,2,False,2023-SE28
+Jesús María,2023,29,1,False,2023-SE29
+Jesús María,2023,30,0,True,2023-SE30
+Jesús María,2023,31,0,True,2023-SE31
+Jesús María,2023,32,2,False,2023-SE32
+Jesús María,2023,33,3,False,2023-SE33
+Jesús María,2023,34,0,True,2023-SE34
+Jesús María,2023,35,0,True,2023-SE35
+Jesús María,2023,36,0,True,2023-SE36
+Jesús María,2023,37,0,True,2023-SE37
+Jesús María,2023,38,0,True,2023-SE38
+Jesús María,2023,39,0,True,2023-SE39
+Jesús María,2023,40,0,True,2023-SE40
+Jesús María,2023,41,0,True,2023-SE41
+Jesús María,2023,42,0,True,2023-SE42
+Jesús María,2023,43,0,True,2023-SE43
+Jesús María,2023,44,0,True,2023-SE44
+Jesús María,2023,45,0,True,2023-SE45
+Jesús María,2023,46,0,True,2023-SE46
+Jesús María,2023,47,0,True,2023-SE47
+Jesús María,2023,48,0,True,2023-SE48
+Jesús María,2023,49,0,True,2023-SE49
+Jesús María,2023,50,0,True,2023-SE50
+Jesús María,2023,51,0,True,2023-SE51
+Jesús María,2023,52,0,True,2023-SE52
+Jesús María,2024,1,0,True,2024-SE01
+Jesús María,2024,2,0,True,2024-SE02
+Jesús María,2024,3,0,True,2024-SE03
+Jesús María,2024,4,0,True,2024-SE04
+Jesús María,2024,5,0,True,2024-SE05
+Jesús María,2024,6,0,True,2024-SE06
+Jesús María,2024,7,3,False,2024-SE07
+Jesús María,2024,8,8,False,2024-SE08
+Jesús María,2024,9,4,False,2024-SE09
+Jesús María,2024,10,18,False,2024-SE10
+Jesús María,2024,11,19,False,2024-SE11
+Jesús María,2024,12,24,False,2024-SE12
+Jesús María,2024,13,20,False,2024-SE13
+Jesús María,2024,14,31,False,2024-SE14
+Jesús María,2024,15,28,False,2024-SE15
+Jesús María,2024,16,36,False,2024-SE16
+Jesús María,2024,17,37,False,2024-SE17
+Jesús María,2024,18,32,False,2024-SE18
+Jesús María,2024,19,23,False,2024-SE19
+Jesús María,2024,20,24,False,2024-SE20
+Jesús María,2024,21,14,False,2024-SE21
+Jesús María,2024,22,16,False,2024-SE22
+Jesús María,2024,23,8,False,2024-SE23
+Jesús María,2024,24,7,False,2024-SE24
+Jesús María,2024,25,8,False,2024-SE25
+Jesús María,2024,26,1,False,2024-SE26
+Jesús María,2024,27,0,True,2024-SE27
+Jesús María,2024,28,0,True,2024-SE28
+Jesús María,2024,29,1,False,2024-SE29
+Jesús María,2024,30,0,True,2024-SE30
+Jesús María,2024,31,0,True,2024-SE31
+Jesús María,2024,32,0,True,2024-SE32
+Jesús María,2024,33,0,True,2024-SE33
+Jesús María,2024,34,0,True,2024-SE34
+Jesús María,2024,35,1,False,2024-SE35
+Jesús María,2024,36,0,True,2024-SE36
+Jesús María,2024,37,0,True,2024-SE37
+Jesús María,2024,38,0,True,2024-SE38
+Jesús María,2024,39,0,True,2024-SE39
+Jesús María,2024,40,0,True,2024-SE40
+Jesús María,2024,41,0,True,2024-SE41
+Jesús María,2024,42,0,True,2024-SE42
+Jesús María,2024,43,0,True,2024-SE43
+Jesús María,2024,44,0,True,2024-SE44
+Jesús María,2024,45,0,True,2024-SE45
+Jesús María,2024,46,0,True,2024-SE46
+Jesús María,2024,47,0,True,2024-SE47
+Jesús María,2024,48,0,True,2024-SE48
+Jesús María,2024,49,0,True,2024-SE49
+Jesús María,2024,50,0,True,2024-SE50
+Jesús María,2024,51,0,True,2024-SE51
+Jesús María,2024,52,0,True,2024-SE52
+Lince,2023,1,0,True,2023-SE01
+Lince,2023,2,0,True,2023-SE02
+Lince,2023,3,0,True,2023-SE03
+Lince,2023,4,0,True,2023-SE04
+Lince,2023,5,0,True,2023-SE05
+Lince,2023,6,0,True,2023-SE06
+Lince,2023,7,0,True,2023-SE07
+Lince,2023,8,0,True,2023-SE08
+Lince,2023,9,0,True,2023-SE09
+Lince,2023,10,0,True,2023-SE10
+Lince,2023,11,0,True,2023-SE11
+Lince,2023,12,0,True,2023-SE12
+Lince,2023,13,0,True,2023-SE13
+Lince,2023,14,1,False,2023-SE14
+Lince,2023,15,3,False,2023-SE15
+Lince,2023,16,3,False,2023-SE16
+Lince,2023,17,7,False,2023-SE17
+Lince,2023,18,8,False,2023-SE18
+Lince,2023,19,11,False,2023-SE19
+Lince,2023,20,3,False,2023-SE20
+Lince,2023,21,8,False,2023-SE21
+Lince,2023,22,7,False,2023-SE22
+Lince,2023,23,3,False,2023-SE23
+Lince,2023,24,3,False,2023-SE24
+Lince,2023,25,5,False,2023-SE25
+Lince,2023,26,3,False,2023-SE26
+Lince,2023,27,2,False,2023-SE27
+Lince,2023,28,0,True,2023-SE28
+Lince,2023,29,1,False,2023-SE29
+Lince,2023,30,1,False,2023-SE30
+Lince,2023,31,0,True,2023-SE31
+Lince,2023,32,0,True,2023-SE32
+Lince,2023,33,1,False,2023-SE33
+Lince,2023,34,0,True,2023-SE34
+Lince,2023,35,0,True,2023-SE35
+Lince,2023,36,0,True,2023-SE36
+Lince,2023,37,0,True,2023-SE37
+Lince,2023,38,2,False,2023-SE38
+Lince,2023,39,0,True,2023-SE39
+Lince,2023,40,0,True,2023-SE40
+Lince,2023,41,0,True,2023-SE41
+Lince,2023,42,0,True,2023-SE42
+Lince,2023,43,0,True,2023-SE43
+Lince,2023,44,0,True,2023-SE44
+Lince,2023,45,0,True,2023-SE45
+Lince,2023,46,0,True,2023-SE46
+Lince,2023,47,0,True,2023-SE47
+Lince,2023,48,0,True,2023-SE48
+Lince,2023,49,0,True,2023-SE49
+Lince,2023,50,2,False,2023-SE50
+Lince,2023,51,0,True,2023-SE51
+Lince,2023,52,0,True,2023-SE52
+Lince,2024,1,0,True,2024-SE01
+Lince,2024,2,0,True,2024-SE02
+Lince,2024,3,0,True,2024-SE03
+Lince,2024,4,0,True,2024-SE04
+Lince,2024,5,0,True,2024-SE05
+Lince,2024,6,0,True,2024-SE06
+Lince,2024,7,1,False,2024-SE07
+Lince,2024,8,3,False,2024-SE08
+Lince,2024,9,9,False,2024-SE09
+Lince,2024,10,8,False,2024-SE10
+Lince,2024,11,7,False,2024-SE11
+Lince,2024,12,10,False,2024-SE12
+Lince,2024,13,17,False,2024-SE13
+Lince,2024,14,25,False,2024-SE14
+Lince,2024,15,29,False,2024-SE15
+Lince,2024,16,25,False,2024-SE16
+Lince,2024,17,24,False,2024-SE17
+Lince,2024,18,24,False,2024-SE18
+Lince,2024,19,15,False,2024-SE19
+Lince,2024,20,16,False,2024-SE20
+Lince,2024,21,9,False,2024-SE21
+Lince,2024,22,7,False,2024-SE22
+Lince,2024,23,7,False,2024-SE23
+Lince,2024,24,4,False,2024-SE24
+Lince,2024,25,0,True,2024-SE25
+Lince,2024,26,1,False,2024-SE26
+Lince,2024,27,0,True,2024-SE27
+Lince,2024,28,1,False,2024-SE28
+Lince,2024,29,0,True,2024-SE29
+Lince,2024,30,0,True,2024-SE30
+Lince,2024,31,0,True,2024-SE31
+Lince,2024,32,0,True,2024-SE32
+Lince,2024,33,0,True,2024-SE33
+Lince,2024,34,0,True,2024-SE34
+Lince,2024,35,0,True,2024-SE35
+Lince,2024,36,0,True,2024-SE36
+Lince,2024,37,0,True,2024-SE37
+Lince,2024,38,0,True,2024-SE38
+Lince,2024,39,0,True,2024-SE39
+Lince,2024,40,0,True,2024-SE40
+Lince,2024,41,0,True,2024-SE41
+Lince,2024,42,0,True,2024-SE42
+Lince,2024,43,0,True,2024-SE43
+Lince,2024,44,0,True,2024-SE44
+Lince,2024,45,0,True,2024-SE45
+Lince,2024,46,0,True,2024-SE46
+Lince,2024,47,0,True,2024-SE47
+Lince,2024,48,0,True,2024-SE48
+Lince,2024,49,0,True,2024-SE49
+Lince,2024,50,0,True,2024-SE50
+Lince,2024,51,0,True,2024-SE51
+Lince,2024,52,0,True,2024-SE52
+San Isidro,2023,1,0,True,2023-SE01
+San Isidro,2023,2,0,True,2023-SE02
+San Isidro,2023,3,0,True,2023-SE03
+San Isidro,2023,4,0,True,2023-SE04
+San Isidro,2023,5,0,True,2023-SE05
+San Isidro,2023,6,0,True,2023-SE06
+San Isidro,2023,7,0,True,2023-SE07
+San Isidro,2023,8,0,True,2023-SE08
+San Isidro,2023,9,0,True,2023-SE09
+San Isidro,2023,10,0,True,2023-SE10
+San Isidro,2023,11,0,True,2023-SE11
+San Isidro,2023,12,0,True,2023-SE12
+San Isidro,2023,13,0,True,2023-SE13
+San Isidro,2023,14,0,True,2023-SE14
+San Isidro,2023,15,0,True,2023-SE15
+San Isidro,2023,16,0,True,2023-SE16
+San Isidro,2023,17,0,True,2023-SE17
+San Isidro,2023,18,2,False,2023-SE18
+San Isidro,2023,19,2,False,2023-SE19
+San Isidro,2023,20,2,False,2023-SE20
+San Isidro,2023,21,4,False,2023-SE21
+San Isidro,2023,22,0,True,2023-SE22
+San Isidro,2023,23,2,False,2023-SE23
+San Isidro,2023,24,1,False,2023-SE24
+San Isidro,2023,25,0,True,2023-SE25
+San Isidro,2023,26,0,True,2023-SE26
+San Isidro,2023,27,4,False,2023-SE27
+San Isidro,2023,28,1,False,2023-SE28
+San Isidro,2023,29,2,False,2023-SE29
+San Isidro,2023,30,1,False,2023-SE30
+San Isidro,2023,31,0,True,2023-SE31
+San Isidro,2023,32,1,False,2023-SE32
+San Isidro,2023,33,0,True,2023-SE33
+San Isidro,2023,34,0,True,2023-SE34
+San Isidro,2023,35,0,True,2023-SE35
+San Isidro,2023,36,1,False,2023-SE36
+San Isidro,2023,37,0,True,2023-SE37
+San Isidro,2023,38,0,True,2023-SE38
+San Isidro,2023,39,1,False,2023-SE39
+San Isidro,2023,40,1,False,2023-SE40
+San Isidro,2023,41,0,True,2023-SE41
+San Isidro,2023,42,0,True,2023-SE42
+San Isidro,2023,43,0,True,2023-SE43
+San Isidro,2023,44,0,True,2023-SE44
+San Isidro,2023,45,0,True,2023-SE45
+San Isidro,2023,46,0,True,2023-SE46
+San Isidro,2023,47,0,True,2023-SE47
+San Isidro,2023,48,0,True,2023-SE48
+San Isidro,2023,49,0,True,2023-SE49
+San Isidro,2023,50,0,True,2023-SE50
+San Isidro,2023,51,0,True,2023-SE51
+San Isidro,2023,52,0,True,2023-SE52
+San Isidro,2024,1,0,True,2024-SE01
+San Isidro,2024,2,0,True,2024-SE02
+San Isidro,2024,3,0,True,2024-SE03
+San Isidro,2024,4,0,True,2024-SE04
+San Isidro,2024,5,0,True,2024-SE05
+San Isidro,2024,6,2,False,2024-SE06
+San Isidro,2024,7,0,True,2024-SE07
+San Isidro,2024,8,2,False,2024-SE08
+San Isidro,2024,9,4,False,2024-SE09
+San Isidro,2024,10,10,False,2024-SE10
+San Isidro,2024,11,3,False,2024-SE11
+San Isidro,2024,12,5,False,2024-SE12
+San Isidro,2024,13,8,False,2024-SE13
+San Isidro,2024,14,8,False,2024-SE14
+San Isidro,2024,15,6,False,2024-SE15
+San Isidro,2024,16,10,False,2024-SE16
+San Isidro,2024,17,5,False,2024-SE17
+San Isidro,2024,18,8,False,2024-SE18
+San Isidro,2024,19,6,False,2024-SE19
+San Isidro,2024,20,3,False,2024-SE20
+San Isidro,2024,21,2,False,2024-SE21
+San Isidro,2024,22,3,False,2024-SE22
+San Isidro,2024,23,0,True,2024-SE23
+San Isidro,2024,24,1,False,2024-SE24
+San Isidro,2024,25,0,True,2024-SE25
+San Isidro,2024,26,0,True,2024-SE26
+San Isidro,2024,27,1,False,2024-SE27
+San Isidro,2024,28,0,True,2024-SE28
+San Isidro,2024,29,0,True,2024-SE29
+San Isidro,2024,30,0,True,2024-SE30
+San Isidro,2024,31,0,True,2024-SE31
+San Isidro,2024,32,0,True,2024-SE32
+San Isidro,2024,33,0,True,2024-SE33
+San Isidro,2024,34,0,True,2024-SE34
+San Isidro,2024,35,0,True,2024-SE35
+San Isidro,2024,36,0,True,2024-SE36
+San Isidro,2024,37,0,True,2024-SE37
+San Isidro,2024,38,0,True,2024-SE38
+San Isidro,2024,39,0,True,2024-SE39
+San Isidro,2024,40,0,True,2024-SE40
+San Isidro,2024,41,0,True,2024-SE41
+San Isidro,2024,42,0,True,2024-SE42
+San Isidro,2024,43,0,True,2024-SE43
+San Isidro,2024,44,0,True,2024-SE44
+San Isidro,2024,45,0,True,2024-SE45
+San Isidro,2024,46,0,True,2024-SE46
+San Isidro,2024,47,0,True,2024-SE47
+San Isidro,2024,48,0,True,2024-SE48
+San Isidro,2024,49,0,True,2024-SE49
+San Isidro,2024,50,0,True,2024-SE50
+San Isidro,2024,51,0,True,2024-SE51
+San Isidro,2024,52,0,True,2024-SE52
+Pueblo Libre,2023,1,0,True,2023-SE01
+Pueblo Libre,2023,2,0,True,2023-SE02
+Pueblo Libre,2023,3,0,True,2023-SE03
+Pueblo Libre,2023,4,0,True,2023-SE04
+Pueblo Libre,2023,5,0,True,2023-SE05
+Pueblo Libre,2023,6,0,True,2023-SE06
+Pueblo Libre,2023,7,0,True,2023-SE07
+Pueblo Libre,2023,8,0,True,2023-SE08
+Pueblo Libre,2023,9,0,True,2023-SE09
+Pueblo Libre,2023,10,0,True,2023-SE10
+Pueblo Libre,2023,11,0,True,2023-SE11
+Pueblo Libre,2023,12,0,True,2023-SE12
+Pueblo Libre,2023,13,0,True,2023-SE13
+Pueblo Libre,2023,14,0,True,2023-SE14
+Pueblo Libre,2023,15,0,True,2023-SE15
+Pueblo Libre,2023,16,0,True,2023-SE16
+Pueblo Libre,2023,17,0,True,2023-SE17
+Pueblo Libre,2023,18,2,False,2023-SE18
+Pueblo Libre,2023,19,8,False,2023-SE19
+Pueblo Libre,2023,20,7,False,2023-SE20
+Pueblo Libre,2023,21,7,False,2023-SE21
+Pueblo Libre,2023,22,7,False,2023-SE22
+Pueblo Libre,2023,23,7,False,2023-SE23
+Pueblo Libre,2023,24,4,False,2023-SE24
+Pueblo Libre,2023,25,6,False,2023-SE25
+Pueblo Libre,2023,26,9,False,2023-SE26
+Pueblo Libre,2023,27,4,False,2023-SE27
+Pueblo Libre,2023,28,2,False,2023-SE28
+Pueblo Libre,2023,29,0,True,2023-SE29
+Pueblo Libre,2023,30,1,False,2023-SE30
+Pueblo Libre,2023,31,0,True,2023-SE31
+Pueblo Libre,2023,32,2,False,2023-SE32
+Pueblo Libre,2023,33,0,True,2023-SE33
+Pueblo Libre,2023,34,1,False,2023-SE34
+Pueblo Libre,2023,35,0,True,2023-SE35
+Pueblo Libre,2023,36,0,True,2023-SE36
+Pueblo Libre,2023,37,0,True,2023-SE37
+Pueblo Libre,2023,38,1,False,2023-SE38
+Pueblo Libre,2023,39,0,True,2023-SE39
+Pueblo Libre,2023,40,0,True,2023-SE40
+Pueblo Libre,2023,41,0,True,2023-SE41
+Pueblo Libre,2023,42,0,True,2023-SE42
+Pueblo Libre,2023,43,0,True,2023-SE43
+Pueblo Libre,2023,44,0,True,2023-SE44
+Pueblo Libre,2023,45,0,True,2023-SE45
+Pueblo Libre,2023,46,0,True,2023-SE46
+Pueblo Libre,2023,47,0,True,2023-SE47
+Pueblo Libre,2023,48,0,True,2023-SE48
+Pueblo Libre,2023,49,1,False,2023-SE49
+Pueblo Libre,2023,50,0,True,2023-SE50
+Pueblo Libre,2023,51,0,True,2023-SE51
+Pueblo Libre,2023,52,0,True,2023-SE52
+Pueblo Libre,2024,1,0,True,2024-SE01
+Pueblo Libre,2024,2,0,True,2024-SE02
+Pueblo Libre,2024,3,0,True,2024-SE03
+Pueblo Libre,2024,4,0,True,2024-SE04
+Pueblo Libre,2024,5,1,False,2024-SE05
+Pueblo Libre,2024,6,0,True,2024-SE06
+Pueblo Libre,2024,7,0,True,2024-SE07
+Pueblo Libre,2024,8,2,False,2024-SE08
+Pueblo Libre,2024,9,9,False,2024-SE09
+Pueblo Libre,2024,10,8,False,2024-SE10
+Pueblo Libre,2024,11,10,False,2024-SE11
+Pueblo Libre,2024,12,15,False,2024-SE12
+Pueblo Libre,2024,13,19,False,2024-SE13
+Pueblo Libre,2024,14,38,False,2024-SE14
+Pueblo Libre,2024,15,34,False,2024-SE15
+Pueblo Libre,2024,16,39,False,2024-SE16
+Pueblo Libre,2024,17,39,False,2024-SE17
+Pueblo Libre,2024,18,53,False,2024-SE18
+Pueblo Libre,2024,19,36,False,2024-SE19
+Pueblo Libre,2024,20,40,False,2024-SE20
+Pueblo Libre,2024,21,21,False,2024-SE21
+Pueblo Libre,2024,22,17,False,2024-SE22
+Pueblo Libre,2024,23,22,False,2024-SE23
+Pueblo Libre,2024,24,14,False,2024-SE24
+Pueblo Libre,2024,25,8,False,2024-SE25
+Pueblo Libre,2024,26,0,True,2024-SE26
+Pueblo Libre,2024,27,0,True,2024-SE27
+Pueblo Libre,2024,28,0,True,2024-SE28
+Pueblo Libre,2024,29,0,True,2024-SE29
+Pueblo Libre,2024,30,0,True,2024-SE30
+Pueblo Libre,2024,31,0,True,2024-SE31
+Pueblo Libre,2024,32,0,True,2024-SE32
+Pueblo Libre,2024,33,0,True,2024-SE33
+Pueblo Libre,2024,34,0,True,2024-SE34
+Pueblo Libre,2024,35,0,True,2024-SE35
+Pueblo Libre,2024,36,0,True,2024-SE36
+Pueblo Libre,2024,37,0,True,2024-SE37
+Pueblo Libre,2024,38,1,False,2024-SE38
+Pueblo Libre,2024,39,0,True,2024-SE39
+Pueblo Libre,2024,40,0,True,2024-SE40
+Pueblo Libre,2024,41,0,True,2024-SE41
+Pueblo Libre,2024,42,0,True,2024-SE42
+Pueblo Libre,2024,43,0,True,2024-SE43
+Pueblo Libre,2024,44,0,True,2024-SE44
+Pueblo Libre,2024,45,0,True,2024-SE45
+Pueblo Libre,2024,46,1,False,2024-SE46
+Pueblo Libre,2024,47,0,True,2024-SE47
+Pueblo Libre,2024,48,0,True,2024-SE48
+Pueblo Libre,2024,49,0,True,2024-SE49
+Pueblo Libre,2024,50,0,True,2024-SE50
+Pueblo Libre,2024,51,0,True,2024-SE51
+Pueblo Libre,2024,52,0,True,2024-SE52
+Magdalena,2023,1,0,True,2023-SE01
+Magdalena,2023,2,0,True,2023-SE02
+Magdalena,2023,3,0,True,2023-SE03
+Magdalena,2023,4,0,True,2023-SE04
+Magdalena,2023,5,0,True,2023-SE05
+Magdalena,2023,6,0,True,2023-SE06
+Magdalena,2023,7,0,True,2023-SE07
+Magdalena,2023,8,0,True,2023-SE08
+Magdalena,2023,9,0,True,2023-SE09
+Magdalena,2023,10,0,True,2023-SE10
+Magdalena,2023,11,0,True,2023-SE11
+Magdalena,2023,12,0,True,2023-SE12
+Magdalena,2023,13,0,True,2023-SE13
+Magdalena,2023,14,0,True,2023-SE14
+Magdalena,2023,15,1,False,2023-SE15
+Magdalena,2023,16,0,True,2023-SE16
+Magdalena,2023,17,0,True,2023-SE17
+Magdalena,2023,18,1,False,2023-SE18
+Magdalena,2023,19,1,False,2023-SE19
+Magdalena,2023,20,4,False,2023-SE20
+Magdalena,2023,21,1,False,2023-SE21
+Magdalena,2023,22,3,False,2023-SE22
+Magdalena,2023,23,5,False,2023-SE23
+Magdalena,2023,24,2,False,2023-SE24
+Magdalena,2023,25,1,False,2023-SE25
+Magdalena,2023,26,3,False,2023-SE26
+Magdalena,2023,27,4,False,2023-SE27
+Magdalena,2023,28,1,False,2023-SE28
+Magdalena,2023,29,0,True,2023-SE29
+Magdalena,2023,30,1,False,2023-SE30
+Magdalena,2023,31,1,False,2023-SE31
+Magdalena,2023,32,0,True,2023-SE32
+Magdalena,2023,33,1,False,2023-SE33
+Magdalena,2023,34,0,True,2023-SE34
+Magdalena,2023,35,0,True,2023-SE35
+Magdalena,2023,36,0,True,2023-SE36
+Magdalena,2023,37,1,False,2023-SE37
+Magdalena,2023,38,0,True,2023-SE38
+Magdalena,2023,39,0,True,2023-SE39
+Magdalena,2023,40,0,True,2023-SE40
+Magdalena,2023,41,0,True,2023-SE41
+Magdalena,2023,42,0,True,2023-SE42
+Magdalena,2023,43,0,True,2023-SE43
+Magdalena,2023,44,0,True,2023-SE44
+Magdalena,2023,45,0,True,2023-SE45
+Magdalena,2023,46,0,True,2023-SE46
+Magdalena,2023,47,0,True,2023-SE47
+Magdalena,2023,48,0,True,2023-SE48
+Magdalena,2023,49,0,True,2023-SE49
+Magdalena,2023,50,0,True,2023-SE50
+Magdalena,2023,51,0,True,2023-SE51
+Magdalena,2023,52,0,True,2023-SE52
+Magdalena,2024,1,0,True,2024-SE01
+Magdalena,2024,2,0,True,2024-SE02
+Magdalena,2024,3,1,False,2024-SE03
+Magdalena,2024,4,0,True,2024-SE04
+Magdalena,2024,5,0,True,2024-SE05
+Magdalena,2024,6,0,True,2024-SE06
+Magdalena,2024,7,0,True,2024-SE07
+Magdalena,2024,8,1,False,2024-SE08
+Magdalena,2024,9,4,False,2024-SE09
+Magdalena,2024,10,9,False,2024-SE10
+Magdalena,2024,11,4,False,2024-SE11
+Magdalena,2024,12,3,False,2024-SE12
+Magdalena,2024,13,11,False,2024-SE13
+Magdalena,2024,14,8,False,2024-SE14
+Magdalena,2024,15,14,False,2024-SE15
+Magdalena,2024,16,22,False,2024-SE16
+Magdalena,2024,17,17,False,2024-SE17
+Magdalena,2024,18,16,False,2024-SE18
+Magdalena,2024,19,13,False,2024-SE19
+Magdalena,2024,20,10,False,2024-SE20
+Magdalena,2024,21,15,False,2024-SE21
+Magdalena,2024,22,7,False,2024-SE22
+Magdalena,2024,23,13,False,2024-SE23
+Magdalena,2024,24,4,False,2024-SE24
+Magdalena,2024,25,5,False,2024-SE25
+Magdalena,2024,26,0,True,2024-SE26
+Magdalena,2024,27,0,True,2024-SE27
+Magdalena,2024,28,0,True,2024-SE28
+Magdalena,2024,29,0,True,2024-SE29
+Magdalena,2024,30,0,True,2024-SE30
+Magdalena,2024,31,0,True,2024-SE31
+Magdalena,2024,32,0,True,2024-SE32
+Magdalena,2024,33,0,True,2024-SE33
+Magdalena,2024,34,0,True,2024-SE34
+Magdalena,2024,35,0,True,2024-SE35
+Magdalena,2024,36,0,True,2024-SE36
+Magdalena,2024,37,0,True,2024-SE37
+Magdalena,2024,38,0,True,2024-SE38
+Magdalena,2024,39,0,True,2024-SE39
+Magdalena,2024,40,0,True,2024-SE40
+Magdalena,2024,41,0,True,2024-SE41
+Magdalena,2024,42,0,True,2024-SE42
+Magdalena,2024,43,0,True,2024-SE43
+Magdalena,2024,44,0,True,2024-SE44
+Magdalena,2024,45,0,True,2024-SE45
+Magdalena,2024,46,0,True,2024-SE46
+Magdalena,2024,47,0,True,2024-SE47
+Magdalena,2024,48,0,True,2024-SE48
+Magdalena,2024,49,0,True,2024-SE49
+Magdalena,2024,50,0,True,2024-SE50
+Magdalena,2024,51,0,True,2024-SE51
+Magdalena,2024,52,0,True,2024-SE52
+San Miguel,2023,1,0,True,2023-SE01
+San Miguel,2023,2,0,True,2023-SE02
+San Miguel,2023,3,0,True,2023-SE03
+San Miguel,2023,4,0,True,2023-SE04
+San Miguel,2023,5,0,True,2023-SE05
+San Miguel,2023,6,0,True,2023-SE06
+San Miguel,2023,7,0,True,2023-SE07
+San Miguel,2023,8,0,True,2023-SE08
+San Miguel,2023,9,0,True,2023-SE09
+San Miguel,2023,10,0,True,2023-SE10
+San Miguel,2023,11,0,True,2023-SE11
+San Miguel,2023,12,0,True,2023-SE12
+San Miguel,2023,13,0,True,2023-SE13
+San Miguel,2023,14,0,True,2023-SE14
+San Miguel,2023,15,0,True,2023-SE15
+San Miguel,2023,16,1,False,2023-SE16
+San Miguel,2023,17,0,True,2023-SE17
+San Miguel,2023,18,1,False,2023-SE18
+San Miguel,2023,19,4,False,2023-SE19
+San Miguel,2023,20,4,False,2023-SE20
+San Miguel,2023,21,4,False,2023-SE21
+San Miguel,2023,22,5,False,2023-SE22
+San Miguel,2023,23,3,False,2023-SE23
+San Miguel,2023,24,0,True,2023-SE24
+San Miguel,2023,25,4,False,2023-SE25
+San Miguel,2023,26,2,False,2023-SE26
+San Miguel,2023,27,5,False,2023-SE27
+San Miguel,2023,28,2,False,2023-SE28
+San Miguel,2023,29,3,False,2023-SE29
+San Miguel,2023,30,2,False,2023-SE30
+San Miguel,2023,31,0,True,2023-SE31
+San Miguel,2023,32,4,False,2023-SE32
+San Miguel,2023,33,0,True,2023-SE33
+San Miguel,2023,34,0,True,2023-SE34
+San Miguel,2023,35,0,True,2023-SE35
+San Miguel,2023,36,0,True,2023-SE36
+San Miguel,2023,37,1,False,2023-SE37
+San Miguel,2023,38,1,False,2023-SE38
+San Miguel,2023,39,0,True,2023-SE39
+San Miguel,2023,40,0,True,2023-SE40
+San Miguel,2023,41,0,True,2023-SE41
+San Miguel,2023,42,0,True,2023-SE42
+San Miguel,2023,43,0,True,2023-SE43
+San Miguel,2023,44,0,True,2023-SE44
+San Miguel,2023,45,1,False,2023-SE45
+San Miguel,2023,46,0,True,2023-SE46
+San Miguel,2023,47,0,True,2023-SE47
+San Miguel,2023,48,0,True,2023-SE48
+San Miguel,2023,49,0,True,2023-SE49
+San Miguel,2023,50,0,True,2023-SE50
+San Miguel,2023,51,0,True,2023-SE51
+San Miguel,2023,52,0,True,2023-SE52
+San Miguel,2024,1,0,True,2024-SE01
+San Miguel,2024,2,0,True,2024-SE02
+San Miguel,2024,3,0,True,2024-SE03
+San Miguel,2024,4,0,True,2024-SE04
+San Miguel,2024,5,1,False,2024-SE05
+San Miguel,2024,6,1,False,2024-SE06
+San Miguel,2024,7,1,False,2024-SE07
+San Miguel,2024,8,2,False,2024-SE08
+San Miguel,2024,9,6,False,2024-SE09
+San Miguel,2024,10,9,False,2024-SE10
+San Miguel,2024,11,16,False,2024-SE11
+San Miguel,2024,12,24,False,2024-SE12
+San Miguel,2024,13,22,False,2024-SE13
+San Miguel,2024,14,30,False,2024-SE14
+San Miguel,2024,15,38,False,2024-SE15
+San Miguel,2024,16,50,False,2024-SE16
+San Miguel,2024,17,45,False,2024-SE17
+San Miguel,2024,18,35,False,2024-SE18
+San Miguel,2024,19,34,False,2024-SE19
+San Miguel,2024,20,29,False,2024-SE20
+San Miguel,2024,21,18,False,2024-SE21
+San Miguel,2024,22,8,False,2024-SE22
+San Miguel,2024,23,9,False,2024-SE23
+San Miguel,2024,24,13,False,2024-SE24
+San Miguel,2024,25,3,False,2024-SE25
+San Miguel,2024,26,0,True,2024-SE26
+San Miguel,2024,27,0,True,2024-SE27
+San Miguel,2024,28,0,True,2024-SE28
+San Miguel,2024,29,0,True,2024-SE29
+San Miguel,2024,30,0,True,2024-SE30
+San Miguel,2024,31,0,True,2024-SE31
+San Miguel,2024,32,0,True,2024-SE32
+San Miguel,2024,33,0,True,2024-SE33
+San Miguel,2024,34,0,True,2024-SE34
+San Miguel,2024,35,0,True,2024-SE35
+San Miguel,2024,36,0,True,2024-SE36
+San Miguel,2024,37,0,True,2024-SE37
+San Miguel,2024,38,0,True,2024-SE38
+San Miguel,2024,39,0,True,2024-SE39
+San Miguel,2024,40,0,True,2024-SE40
+San Miguel,2024,41,0,True,2024-SE41
+San Miguel,2024,42,0,True,2024-SE42
+San Miguel,2024,43,0,True,2024-SE43
+San Miguel,2024,44,0,True,2024-SE44
+San Miguel,2024,45,0,True,2024-SE45
+San Miguel,2024,46,0,True,2024-SE46
+San Miguel,2024,47,0,True,2024-SE47
+San Miguel,2024,48,0,True,2024-SE48
+San Miguel,2024,49,0,True,2024-SE49
+San Miguel,2024,50,0,True,2024-SE50
+San Miguel,2024,51,0,True,2024-SE51
+San Miguel,2024,52,0,True,2024-SE52
+Miraflores,2023,1,0,True,2023-SE01
+Miraflores,2023,2,0,True,2023-SE02
+Miraflores,2023,3,0,True,2023-SE03
+Miraflores,2023,4,0,True,2023-SE04
+Miraflores,2023,5,0,True,2023-SE05
+Miraflores,2023,6,0,True,2023-SE06
+Miraflores,2023,7,0,True,2023-SE07
+Miraflores,2023,8,0,True,2023-SE08
+Miraflores,2023,9,0,True,2023-SE09
+Miraflores,2023,10,0,True,2023-SE10
+Miraflores,2023,11,0,True,2023-SE11
+Miraflores,2023,12,0,True,2023-SE12
+Miraflores,2023,13,0,True,2023-SE13
+Miraflores,2023,14,1,False,2023-SE14
+Miraflores,2023,15,0,True,2023-SE15
+Miraflores,2023,16,1,False,2023-SE16
+Miraflores,2023,17,0,True,2023-SE17
+Miraflores,2023,18,1,False,2023-SE18
+Miraflores,2023,19,0,True,2023-SE19
+Miraflores,2023,20,6,False,2023-SE20
+Miraflores,2023,21,6,False,2023-SE21
+Miraflores,2023,22,6,False,2023-SE22
+Miraflores,2023,23,4,False,2023-SE23
+Miraflores,2023,24,3,False,2023-SE24
+Miraflores,2023,25,3,False,2023-SE25
+Miraflores,2023,26,2,False,2023-SE26
+Miraflores,2023,27,3,False,2023-SE27
+Miraflores,2023,28,1,False,2023-SE28
+Miraflores,2023,29,0,True,2023-SE29
+Miraflores,2023,30,0,True,2023-SE30
+Miraflores,2023,31,0,True,2023-SE31
+Miraflores,2023,32,2,False,2023-SE32
+Miraflores,2023,33,0,True,2023-SE33
+Miraflores,2023,34,0,True,2023-SE34
+Miraflores,2023,35,0,True,2023-SE35
+Miraflores,2023,36,0,True,2023-SE36
+Miraflores,2023,37,1,False,2023-SE37
+Miraflores,2023,38,0,True,2023-SE38
+Miraflores,2023,39,0,True,2023-SE39
+Miraflores,2023,40,0,True,2023-SE40
+Miraflores,2023,41,0,True,2023-SE41
+Miraflores,2023,42,0,True,2023-SE42
+Miraflores,2023,43,0,True,2023-SE43
+Miraflores,2023,44,1,False,2023-SE44
+Miraflores,2023,45,1,False,2023-SE45
+Miraflores,2023,46,0,True,2023-SE46
+Miraflores,2023,47,0,True,2023-SE47
+Miraflores,2023,48,0,True,2023-SE48
+Miraflores,2023,49,0,True,2023-SE49
+Miraflores,2023,50,0,True,2023-SE50
+Miraflores,2023,51,0,True,2023-SE51
+Miraflores,2023,52,1,False,2023-SE52
+Miraflores,2024,1,0,True,2024-SE01
+Miraflores,2024,2,0,True,2024-SE02
+Miraflores,2024,3,0,True,2024-SE03
+Miraflores,2024,4,1,False,2024-SE04
+Miraflores,2024,5,0,True,2024-SE05
+Miraflores,2024,6,0,True,2024-SE06
+Miraflores,2024,7,1,False,2024-SE07
+Miraflores,2024,8,3,False,2024-SE08
+Miraflores,2024,9,3,False,2024-SE09
+Miraflores,2024,10,7,False,2024-SE10
+Miraflores,2024,11,25,False,2024-SE11
+Miraflores,2024,12,17,False,2024-SE12
+Miraflores,2024,13,4,False,2024-SE13
+Miraflores,2024,14,18,False,2024-SE14
+Miraflores,2024,15,17,False,2024-SE15
+Miraflores,2024,16,21,False,2024-SE16
+Miraflores,2024,17,4,False,2024-SE17
+Miraflores,2024,18,13,False,2024-SE18
+Miraflores,2024,19,6,False,2024-SE19
+Miraflores,2024,20,9,False,2024-SE20
+Miraflores,2024,21,5,False,2024-SE21
+Miraflores,2024,22,1,False,2024-SE22
+Miraflores,2024,23,1,False,2024-SE23
+Miraflores,2024,24,2,False,2024-SE24
+Miraflores,2024,25,4,False,2024-SE25
+Miraflores,2024,26,0,True,2024-SE26
+Miraflores,2024,27,0,True,2024-SE27
+Miraflores,2024,28,0,True,2024-SE28
+Miraflores,2024,29,0,True,2024-SE29
+Miraflores,2024,30,0,True,2024-SE30
+Miraflores,2024,31,0,True,2024-SE31
+Miraflores,2024,32,0,True,2024-SE32
+Miraflores,2024,33,0,True,2024-SE33
+Miraflores,2024,34,0,True,2024-SE34
+Miraflores,2024,35,2,False,2024-SE35
+Miraflores,2024,36,0,True,2024-SE36
+Miraflores,2024,37,0,True,2024-SE37
+Miraflores,2024,38,0,True,2024-SE38
+Miraflores,2024,39,0,True,2024-SE39
+Miraflores,2024,40,0,True,2024-SE40
+Miraflores,2024,41,0,True,2024-SE41
+Miraflores,2024,42,0,True,2024-SE42
+Miraflores,2024,43,0,True,2024-SE43
+Miraflores,2024,44,0,True,2024-SE44
+Miraflores,2024,45,0,True,2024-SE45
+Miraflores,2024,46,0,True,2024-SE46
+Miraflores,2024,47,0,True,2024-SE47
+Miraflores,2024,48,0,True,2024-SE48
+Miraflores,2024,49,0,True,2024-SE49
+Miraflores,2024,50,0,True,2024-SE50
+Miraflores,2024,51,0,True,2024-SE51
+Miraflores,2024,52,0,True,2024-SE52
+Surquillo,2023,1,0,True,2023-SE01
+Surquillo,2023,2,0,True,2023-SE02
+Surquillo,2023,3,0,True,2023-SE03
+Surquillo,2023,4,0,True,2023-SE04
+Surquillo,2023,5,0,True,2023-SE05
+Surquillo,2023,6,0,True,2023-SE06
+Surquillo,2023,7,0,True,2023-SE07
+Surquillo,2023,8,0,True,2023-SE08
+Surquillo,2023,9,0,True,2023-SE09
+Surquillo,2023,10,0,True,2023-SE10
+Surquillo,2023,11,0,True,2023-SE11
+Surquillo,2023,12,0,True,2023-SE12
+Surquillo,2023,13,0,True,2023-SE13
+Surquillo,2023,14,0,True,2023-SE14
+Surquillo,2023,15,0,True,2023-SE15
+Surquillo,2023,16,1,False,2023-SE16
+Surquillo,2023,17,0,True,2023-SE17
+Surquillo,2023,18,2,False,2023-SE18
+Surquillo,2023,19,3,False,2023-SE19
+Surquillo,2023,20,3,False,2023-SE20
+Surquillo,2023,21,6,False,2023-SE21
+Surquillo,2023,22,4,False,2023-SE22
+Surquillo,2023,23,3,False,2023-SE23
+Surquillo,2023,24,1,False,2023-SE24
+Surquillo,2023,25,3,False,2023-SE25
+Surquillo,2023,26,0,True,2023-SE26
+Surquillo,2023,27,0,True,2023-SE27
+Surquillo,2023,28,0,True,2023-SE28
+Surquillo,2023,29,1,False,2023-SE29
+Surquillo,2023,30,0,True,2023-SE30
+Surquillo,2023,31,1,False,2023-SE31
+Surquillo,2023,32,3,False,2023-SE32
+Surquillo,2023,33,0,True,2023-SE33
+Surquillo,2023,34,0,True,2023-SE34
+Surquillo,2023,35,0,True,2023-SE35
+Surquillo,2023,36,1,False,2023-SE36
+Surquillo,2023,37,0,True,2023-SE37
+Surquillo,2023,38,0,True,2023-SE38
+Surquillo,2023,39,0,True,2023-SE39
+Surquillo,2023,40,0,True,2023-SE40
+Surquillo,2023,41,0,True,2023-SE41
+Surquillo,2023,42,1,False,2023-SE42
+Surquillo,2023,43,0,True,2023-SE43
+Surquillo,2023,44,0,True,2023-SE44
+Surquillo,2023,45,0,True,2023-SE45
+Surquillo,2023,46,0,True,2023-SE46
+Surquillo,2023,47,0,True,2023-SE47
+Surquillo,2023,48,0,True,2023-SE48
+Surquillo,2023,49,0,True,2023-SE49
+Surquillo,2023,50,0,True,2023-SE50
+Surquillo,2023,51,0,True,2023-SE51
+Surquillo,2023,52,0,True,2023-SE52
+Surquillo,2024,1,0,True,2024-SE01
+Surquillo,2024,2,0,True,2024-SE02
+Surquillo,2024,3,0,True,2024-SE03
+Surquillo,2024,4,0,True,2024-SE04
+Surquillo,2024,5,0,True,2024-SE05
+Surquillo,2024,6,0,True,2024-SE06
+Surquillo,2024,7,1,False,2024-SE07
+Surquillo,2024,8,1,False,2024-SE08
+Surquillo,2024,9,4,False,2024-SE09
+Surquillo,2024,10,8,False,2024-SE10
+Surquillo,2024,11,9,False,2024-SE11
+Surquillo,2024,12,7,False,2024-SE12
+Surquillo,2024,13,8,False,2024-SE13
+Surquillo,2024,14,21,False,2024-SE14
+Surquillo,2024,15,11,False,2024-SE15
+Surquillo,2024,16,15,False,2024-SE16
+Surquillo,2024,17,22,False,2024-SE17
+Surquillo,2024,18,11,False,2024-SE18
+Surquillo,2024,19,9,False,2024-SE19
+Surquillo,2024,20,6,False,2024-SE20
+Surquillo,2024,21,4,False,2024-SE21
+Surquillo,2024,22,2,False,2024-SE22
+Surquillo,2024,23,0,True,2024-SE23
+Surquillo,2024,24,4,False,2024-SE24
+Surquillo,2024,25,2,False,2024-SE25
+Surquillo,2024,26,0,True,2024-SE26
+Surquillo,2024,27,1,False,2024-SE27
+Surquillo,2024,28,0,True,2024-SE28
+Surquillo,2024,29,0,True,2024-SE29
+Surquillo,2024,30,0,True,2024-SE30
+Surquillo,2024,31,0,True,2024-SE31
+Surquillo,2024,32,0,True,2024-SE32
+Surquillo,2024,33,0,True,2024-SE33
+Surquillo,2024,34,0,True,2024-SE34
+Surquillo,2024,35,1,False,2024-SE35
+Surquillo,2024,36,0,True,2024-SE36
+Surquillo,2024,37,0,True,2024-SE37
+Surquillo,2024,38,0,True,2024-SE38
+Surquillo,2024,39,0,True,2024-SE39
+Surquillo,2024,40,0,True,2024-SE40
+Surquillo,2024,41,0,True,2024-SE41
+Surquillo,2024,42,0,True,2024-SE42
+Surquillo,2024,43,0,True,2024-SE43
+Surquillo,2024,44,0,True,2024-SE44
+Surquillo,2024,45,0,True,2024-SE45
+Surquillo,2024,46,0,True,2024-SE46
+Surquillo,2024,47,1,False,2024-SE47
+Surquillo,2024,48,0,True,2024-SE48
+Surquillo,2024,49,0,True,2024-SE49
+Surquillo,2024,50,0,True,2024-SE50
+Surquillo,2024,51,1,False,2024-SE51
+Surquillo,2024,52,0,True,2024-SE52

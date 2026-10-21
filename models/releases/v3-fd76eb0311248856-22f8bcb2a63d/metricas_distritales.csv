@@ -1,0 +1,113 @@
+modelo,distrito,horizonte,mae,n,rmse
+baseline,Breña,1,0.25,4,0.5
+baseline,Breña,2,0.25,4,0.5
+baseline,Breña,3,0.25,4,0.5
+baseline,Breña,4,0.5,4,0.7071067811865476
+baseline,Cercado de Lima,1,0.75,4,1.118033988749895
+baseline,Cercado de Lima,2,0.25,4,0.5
+baseline,Cercado de Lima,3,0.5,4,0.7071067811865476
+baseline,Cercado de Lima,4,0.5,4,0.7071067811865476
+baseline,Jesús María,1,0.0,4,0.0
+baseline,Jesús María,2,0.0,4,0.0
+baseline,Jesús María,3,0.0,4,0.0
+baseline,Jesús María,4,0.0,4,0.0
+baseline,La Victoria,1,0.25,4,0.5
+baseline,La Victoria,2,0.25,4,0.5
+baseline,La Victoria,3,0.25,4,0.5
+baseline,La Victoria,4,0.25,4,0.5
+baseline,Lince,1,0.0,4,0.0
+baseline,Lince,2,0.0,4,0.0
+baseline,Lince,3,0.0,4,0.0
+baseline,Lince,4,0.0,4,0.0
+baseline,Magdalena,1,0.0,4,0.0
+baseline,Magdalena,2,0.0,4,0.0
+baseline,Magdalena,3,0.0,4,0.0
+baseline,Magdalena,4,0.0,4,0.0
+baseline,Miraflores,1,0.0,4,0.0
+baseline,Miraflores,2,0.0,4,0.0
+baseline,Miraflores,3,0.0,4,0.0
+baseline,Miraflores,4,0.0,4,0.0
+baseline,Pueblo Libre,1,0.0,4,0.0
+baseline,Pueblo Libre,2,0.5,4,0.7071067811865476
+baseline,Pueblo Libre,3,0.0,4,0.0
+baseline,Pueblo Libre,4,0.0,4,0.0
+baseline,San Borja,1,0.0,4,0.0
+baseline,San Borja,2,0.0,4,0.0
+baseline,San Borja,3,0.0,4,0.0
+baseline,San Borja,4,0.0,4,0.0
+baseline,San Isidro,1,0.0,4,0.0
+baseline,San Isidro,2,0.0,4,0.0
+baseline,San Isidro,3,0.0,4,0.0
+baseline,San Isidro,4,0.0,4,0.0
+baseline,San Juan de Lurigancho,1,0.25,4,0.5
+baseline,San Juan de Lurigancho,2,1.0,4,1.4142135623730951
+baseline,San Juan de Lurigancho,3,0.75,4,0.8660254037844386
+baseline,San Juan de Lurigancho,4,1.5,4,1.5811388300841898
+baseline,San Luis,1,0.25,4,0.5
+baseline,San Luis,2,0.0,4,0.0
+baseline,San Luis,3,0.0,4,0.0
+baseline,San Luis,4,0.0,4,0.0
+baseline,San Miguel,1,0.0,4,0.0
+baseline,San Miguel,2,0.0,4,0.0
+baseline,San Miguel,3,0.0,4,0.0
+baseline,San Miguel,4,0.0,4,0.0
+baseline,Surquillo,1,0.0,4,0.0
+baseline,Surquillo,2,0.0,4,0.0
+baseline,Surquillo,3,0.5,4,0.7071067811865476
+baseline,Surquillo,4,0.0,4,0.0
+xgb_moderado,Breña,1,0.0,4,0.0
+xgb_moderado,Breña,2,0.0,4,0.0
+xgb_moderado,Breña,3,0.0,4,0.0
+xgb_moderado,Breña,4,0.25,4,0.5
+xgb_moderado,Cercado de Lima,1,0.5,4,1.0
+xgb_moderado,Cercado de Lima,2,0.0,4,0.0
+xgb_moderado,Cercado de Lima,3,0.25,4,0.5
+xgb_moderado,Cercado de Lima,4,0.25,4,0.5
+xgb_moderado,Jesús María,1,0.0,4,0.0
+xgb_moderado,Jesús María,2,0.0,4,0.0
+xgb_moderado,Jesús María,3,0.0,4,0.0
+xgb_moderado,Jesús María,4,0.0,4,0.0
+xgb_moderado,La Victoria,1,0.0,4,0.0
+xgb_moderado,La Victoria,2,0.0,4,0.0
+xgb_moderado,La Victoria,3,0.0,4,0.0
+xgb_moderado,La Victoria,4,0.0,4,0.0
+xgb_moderado,Lince,1,0.0,4,0.0
+xgb_moderado,Lince,2,0.0,4,0.0
+xgb_moderado,Lince,3,0.0,4,0.0
+xgb_moderado,Lince,4,0.0,4,0.0
+xgb_moderado,Magdalena,1,0.0,4,0.0
+xgb_moderado,Magdalena,2,0.0,4,0.0
+xgb_moderado,Magdalena,3,0.0,4,0.0
+xgb_moderado,Magdalena,4,0.0,4,0.0
+xgb_moderado,Miraflores,1,0.13616840541362762,4,0.27233681082725525
+xgb_moderado,Miraflores,2,0.0,4,0.0
+xgb_moderado,Miraflores,3,0.0,4,0.0
+xgb_moderado,Miraflores,4,0.0,4,0.0
+xgb_moderado,Pueblo Libre,1,0.0,4,0.0
+xgb_moderado,Pueblo Libre,2,0.5,4,0.7071067811865476
+xgb_moderado,Pueblo Libre,3,0.0,4,0.0
+xgb_moderado,Pueblo Libre,4,0.0,4,0.0
+xgb_moderado,San Borja,1,0.0,4,0.0
+xgb_moderado,San Borja,2,0.0,4,0.0
+xgb_moderado,San Borja,3,0.0,4,0.0
+xgb_moderado,San Borja,4,0.0,4,0.0
+xgb_moderado,San Isidro,1,0.0,4,0.0
+xgb_moderado,San Isidro,2,0.0,4,0.0
+xgb_moderado,San Isidro,3,0.0,4,0.0
+xgb_moderado,San Isidro,4,0.0,4,0.0
+xgb_moderado,San Juan de Lurigancho,1,0.663547933101654,4,0.7790967242180475
+xgb_moderado,San Juan de Lurigancho,2,1.3140084147453308,4,1.5882134515278998
+xgb_moderado,San Juan de Lurigancho,3,0.25335001945495605,4,0.5000448885064164
+xgb_moderado,San Juan de Lurigancho,4,0.9469178169965744,4,1.1853718853603648
+xgb_moderado,San Luis,1,0.25,4,0.5
+xgb_moderado,San Luis,2,0.0,4,0.0
+xgb_moderado,San Luis,3,0.0,4,0.0
+xgb_moderado,San Luis,4,0.0,4,0.0
+xgb_moderado,San Miguel,1,0.0,4,0.0
+xgb_moderado,San Miguel,2,0.0,4,0.0
+xgb_moderado,San Miguel,3,0.0,4,0.0
+xgb_moderado,San Miguel,4,0.0,4,0.0
+xgb_moderado,Surquillo,1,0.0,4,0.0
+xgb_moderado,Surquillo,2,0.0,4,0.0
+xgb_moderado,Surquillo,3,0.5,4,0.7071067811865476
+xgb_moderado,Surquillo,4,0.0,4,0.0

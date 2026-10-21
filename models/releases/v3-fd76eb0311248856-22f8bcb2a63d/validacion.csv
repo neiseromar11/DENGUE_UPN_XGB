@@ -1,0 +1,673 @@
+modelo,corte,distrito,horizonte,semana,real,prediccion
+baseline,2024-SE16,Breña,1,2024-SE17,29.0,29.0
+baseline,2024-SE16,Breña,2,2024-SE18,31.0,29.0
+baseline,2024-SE16,Breña,3,2024-SE19,34.0,29.0
+baseline,2024-SE16,Breña,4,2024-SE20,21.0,29.0
+xgb_conservador,2024-SE16,Breña,1,2024-SE17,29.0,29.635574340820312
+xgb_conservador,2024-SE16,Breña,2,2024-SE18,31.0,27.118040084838867
+xgb_conservador,2024-SE16,Breña,3,2024-SE19,34.0,25.50767707824707
+xgb_conservador,2024-SE16,Breña,4,2024-SE20,21.0,25.50767707824707
+xgb_moderado,2024-SE16,Breña,1,2024-SE17,29.0,30.09585952758789
+xgb_moderado,2024-SE16,Breña,2,2024-SE18,31.0,30.834365844726562
+xgb_moderado,2024-SE16,Breña,3,2024-SE19,34.0,33.167884826660156
+xgb_moderado,2024-SE16,Breña,4,2024-SE20,21.0,34.96841049194336
+xgb_poisson,2024-SE16,Breña,1,2024-SE17,29.0,28.73556900024414
+xgb_poisson,2024-SE16,Breña,2,2024-SE18,31.0,28.139013290405273
+xgb_poisson,2024-SE16,Breña,3,2024-SE19,34.0,28.139013290405273
+xgb_poisson,2024-SE16,Breña,4,2024-SE20,21.0,28.139013290405273
+baseline,2024-SE16,Cercado de Lima,1,2024-SE17,159.0,173.0
+baseline,2024-SE16,Cercado de Lima,2,2024-SE18,142.0,173.0
+baseline,2024-SE16,Cercado de Lima,3,2024-SE19,122.0,173.0
+baseline,2024-SE16,Cercado de Lima,4,2024-SE20,108.0,173.0
+xgb_conservador,2024-SE16,Cercado de Lima,1,2024-SE17,159.0,178.11056518554688
+xgb_conservador,2024-SE16,Cercado de Lima,2,2024-SE18,142.0,167.50408935546875
+xgb_conservador,2024-SE16,Cercado de Lima,3,2024-SE19,122.0,159.93081665039062
+xgb_conservador,2024-SE16,Cercado de Lima,4,2024-SE20,108.0,157.71449279785156
+xgb_moderado,2024-SE16,Cercado de Lima,1,2024-SE17,159.0,205.3503875732422
+xgb_moderado,2024-SE16,Cercado de Lima,2,2024-SE18,142.0,266.9555038452149
+xgb_moderado,2024-SE16,Cercado de Lima,3,2024-SE19,122.0,306.7525634765625
+xgb_moderado,2024-SE16,Cercado de Lima,4,2024-SE20,108.0,319.6241455078125
+xgb_poisson,2024-SE16,Cercado de Lima,1,2024-SE17,159.0,140.8461456298828
+xgb_poisson,2024-SE16,Cercado de Lima,2,2024-SE18,142.0,130.618408203125
+xgb_poisson,2024-SE16,Cercado de Lima,3,2024-SE19,122.0,138.08505249023438
+xgb_poisson,2024-SE16,Cercado de Lima,4,2024-SE20,108.0,138.08505249023438
+baseline,2024-SE16,Jesús María,1,2024-SE17,37.0,36.0
+baseline,2024-SE16,Jesús María,2,2024-SE18,32.0,36.0
+baseline,2024-SE16,Jesús María,3,2024-SE19,23.0,36.0
+baseline,2024-SE16,Jesús María,4,2024-SE20,24.0,36.0
+xgb_conservador,2024-SE16,Jesús María,1,2024-SE17,37.0,39.13546371459961
+xgb_conservador,2024-SE16,Jesús María,2,2024-SE18,32.0,36.6738395690918
+xgb_conservador,2024-SE16,Jesús María,3,2024-SE19,23.0,36.50916290283203
+xgb_conservador,2024-SE16,Jesús María,4,2024-SE20,24.0,36.50916290283203
+xgb_moderado,2024-SE16,Jesús María,1,2024-SE17,37.0,36.57969284057617
+xgb_moderado,2024-SE16,Jesús María,2,2024-SE18,32.0,37.1349983215332
+xgb_moderado,2024-SE16,Jesús María,3,2024-SE19,23.0,34.350563049316406
+xgb_moderado,2024-SE16,Jesús María,4,2024-SE20,24.0,34.350563049316406
+xgb_poisson,2024-SE16,Jesús María,1,2024-SE17,37.0,35.42142868041992
+xgb_poisson,2024-SE16,Jesús María,2,2024-SE18,32.0,36.123878479003906
+xgb_poisson,2024-SE16,Jesús María,3,2024-SE19,23.0,36.123878479003906
+xgb_poisson,2024-SE16,Jesús María,4,2024-SE20,24.0,36.123878479003906
+baseline,2024-SE16,La Victoria,1,2024-SE17,47.0,57.0
+baseline,2024-SE16,La Victoria,2,2024-SE18,57.0,57.0
+baseline,2024-SE16,La Victoria,3,2024-SE19,44.0,57.0
+baseline,2024-SE16,La Victoria,4,2024-SE20,43.0,57.0
+xgb_conservador,2024-SE16,La Victoria,1,2024-SE17,47.0,58.103675842285156
+xgb_conservador,2024-SE16,La Victoria,2,2024-SE18,57.0,57.645713806152344
+xgb_conservador,2024-SE16,La Victoria,3,2024-SE19,44.0,54.15998077392578
+xgb_conservador,2024-SE16,La Victoria,4,2024-SE20,43.0,54.15998077392578
+xgb_moderado,2024-SE16,La Victoria,1,2024-SE17,47.0,57.55337142944336
+xgb_moderado,2024-SE16,La Victoria,2,2024-SE18,57.0,56.94512939453125
+xgb_moderado,2024-SE16,La Victoria,3,2024-SE19,44.0,55.06060028076172
+xgb_moderado,2024-SE16,La Victoria,4,2024-SE20,43.0,53.719852447509766
+xgb_poisson,2024-SE16,La Victoria,1,2024-SE17,47.0,53.79597854614258
+xgb_poisson,2024-SE16,La Victoria,2,2024-SE18,57.0,54.81037902832031
+xgb_poisson,2024-SE16,La Victoria,3,2024-SE19,44.0,54.81037902832031
+xgb_poisson,2024-SE16,La Victoria,4,2024-SE20,43.0,54.81037902832031
+baseline,2024-SE16,Lince,1,2024-SE17,24.0,25.0
+baseline,2024-SE16,Lince,2,2024-SE18,24.0,25.0
+baseline,2024-SE16,Lince,3,2024-SE19,15.0,25.0
+baseline,2024-SE16,Lince,4,2024-SE20,16.0,25.0
+xgb_conservador,2024-SE16,Lince,1,2024-SE17,24.0,25.672353744506836
+xgb_conservador,2024-SE16,Lince,2,2024-SE18,24.0,25.672353744506836
+xgb_conservador,2024-SE16,Lince,3,2024-SE19,15.0,25.50767707824707
+xgb_conservador,2024-SE16,Lince,4,2024-SE20,16.0,25.50767707824707
+xgb_moderado,2024-SE16,Lince,1,2024-SE17,24.0,28.746675491333008
+xgb_moderado,2024-SE16,Lince,2,2024-SE18,24.0,27.349355697631836
+xgb_moderado,2024-SE16,Lince,3,2024-SE19,15.0,25.81085968017578
+xgb_moderado,2024-SE16,Lince,4,2024-SE20,16.0,25.81085968017578
+xgb_poisson,2024-SE16,Lince,1,2024-SE17,24.0,28.139013290405273
+xgb_poisson,2024-SE16,Lince,2,2024-SE18,24.0,28.139013290405273
+xgb_poisson,2024-SE16,Lince,3,2024-SE19,15.0,28.139013290405273
+xgb_poisson,2024-SE16,Lince,4,2024-SE20,16.0,28.139013290405273
+baseline,2024-SE16,Magdalena,1,2024-SE17,17.0,22.0
+baseline,2024-SE16,Magdalena,2,2024-SE18,16.0,22.0
+baseline,2024-SE16,Magdalena,3,2024-SE19,13.0,22.0
+baseline,2024-SE16,Magdalena,4,2024-SE20,10.0,22.0
+xgb_conservador,2024-SE16,Magdalena,1,2024-SE17,17.0,23.633808135986328
+xgb_conservador,2024-SE16,Magdalena,2,2024-SE18,16.0,23.85574722290039
+xgb_conservador,2024-SE16,Magdalena,3,2024-SE19,13.0,23.691070556640625
+xgb_conservador,2024-SE16,Magdalena,4,2024-SE20,10.0,23.691070556640625
+xgb_moderado,2024-SE16,Magdalena,1,2024-SE17,17.0,24.68292236328125
+xgb_moderado,2024-SE16,Magdalena,2,2024-SE18,16.0,28.17184829711914
+xgb_moderado,2024-SE16,Magdalena,3,2024-SE19,13.0,28.202207565307617
+xgb_moderado,2024-SE16,Magdalena,4,2024-SE20,10.0,27.386728286743164
+xgb_poisson,2024-SE16,Magdalena,1,2024-SE17,17.0,24.94001007080078
+xgb_poisson,2024-SE16,Magdalena,2,2024-SE18,16.0,27.584482192993164
+xgb_poisson,2024-SE16,Magdalena,3,2024-SE19,13.0,28.139013290405273
+xgb_poisson,2024-SE16,Magdalena,4,2024-SE20,10.0,28.139013290405273
+baseline,2024-SE16,Miraflores,1,2024-SE17,4.0,21.0
+baseline,2024-SE16,Miraflores,2,2024-SE18,13.0,21.0
+baseline,2024-SE16,Miraflores,3,2024-SE19,6.0,21.0
+baseline,2024-SE16,Miraflores,4,2024-SE20,9.0,21.0
+xgb_conservador,2024-SE16,Miraflores,1,2024-SE17,4.0,22.393333435058594
+xgb_conservador,2024-SE16,Miraflores,2,2024-SE18,13.0,23.85574722290039
+xgb_conservador,2024-SE16,Miraflores,3,2024-SE19,6.0,23.691070556640625
+xgb_conservador,2024-SE16,Miraflores,4,2024-SE20,9.0,23.691070556640625
+xgb_moderado,2024-SE16,Miraflores,1,2024-SE17,4.0,24.49142837524414
+xgb_moderado,2024-SE16,Miraflores,2,2024-SE18,13.0,28.75201416015625
+xgb_moderado,2024-SE16,Miraflores,3,2024-SE19,6.0,28.36041831970215
+xgb_moderado,2024-SE16,Miraflores,4,2024-SE20,9.0,27.386728286743164
+xgb_poisson,2024-SE16,Miraflores,1,2024-SE17,4.0,24.94001007080078
+xgb_poisson,2024-SE16,Miraflores,2,2024-SE18,13.0,27.584482192993164
+xgb_poisson,2024-SE16,Miraflores,3,2024-SE19,6.0,28.139013290405273
+xgb_poisson,2024-SE16,Miraflores,4,2024-SE20,9.0,28.139013290405273
+baseline,2024-SE16,Pueblo Libre,1,2024-SE17,39.0,39.0
+baseline,2024-SE16,Pueblo Libre,2,2024-SE18,53.0,39.0
+baseline,2024-SE16,Pueblo Libre,3,2024-SE19,36.0,39.0
+baseline,2024-SE16,Pueblo Libre,4,2024-SE20,40.0,39.0
+xgb_conservador,2024-SE16,Pueblo Libre,1,2024-SE17,39.0,39.223934173583984
+xgb_conservador,2024-SE16,Pueblo Libre,2,2024-SE18,53.0,36.6738395690918
+xgb_conservador,2024-SE16,Pueblo Libre,3,2024-SE19,36.0,36.50916290283203
+xgb_conservador,2024-SE16,Pueblo Libre,4,2024-SE20,40.0,36.50916290283203
+xgb_moderado,2024-SE16,Pueblo Libre,1,2024-SE17,39.0,39.81928253173828
+xgb_moderado,2024-SE16,Pueblo Libre,2,2024-SE18,53.0,38.115596771240234
+xgb_moderado,2024-SE16,Pueblo Libre,3,2024-SE19,36.0,35.61322021484375
+xgb_moderado,2024-SE16,Pueblo Libre,4,2024-SE20,40.0,34.350563049316406
+xgb_poisson,2024-SE16,Pueblo Libre,1,2024-SE17,39.0,36.123878479003906
+xgb_poisson,2024-SE16,Pueblo Libre,2,2024-SE18,53.0,36.123878479003906
+xgb_poisson,2024-SE16,Pueblo Libre,3,2024-SE19,36.0,36.123878479003906
+xgb_poisson,2024-SE16,Pueblo Libre,4,2024-SE20,40.0,36.123878479003906
+baseline,2024-SE16,San Borja,1,2024-SE17,21.0,39.0
+baseline,2024-SE16,San Borja,2,2024-SE18,24.0,39.0
+baseline,2024-SE16,San Borja,3,2024-SE19,13.0,39.0
+baseline,2024-SE16,San Borja,4,2024-SE20,7.0,39.0
+xgb_conservador,2024-SE16,San Borja,1,2024-SE17,21.0,39.13546371459961
+xgb_conservador,2024-SE16,San Borja,2,2024-SE18,24.0,36.6738395690918
+xgb_conservador,2024-SE16,San Borja,3,2024-SE19,13.0,36.50916290283203
+xgb_conservador,2024-SE16,San Borja,4,2024-SE20,7.0,36.50916290283203
+xgb_moderado,2024-SE16,San Borja,1,2024-SE17,21.0,41.35301208496094
+xgb_moderado,2024-SE16,San Borja,2,2024-SE18,24.0,38.39765548706055
+xgb_moderado,2024-SE16,San Borja,3,2024-SE19,13.0,37.38226318359375
+xgb_moderado,2024-SE16,San Borja,4,2024-SE20,7.0,34.350563049316406
+xgb_poisson,2024-SE16,San Borja,1,2024-SE17,21.0,35.42142868041992
+xgb_poisson,2024-SE16,San Borja,2,2024-SE18,24.0,36.123878479003906
+xgb_poisson,2024-SE16,San Borja,3,2024-SE19,13.0,36.123878479003906
+xgb_poisson,2024-SE16,San Borja,4,2024-SE20,7.0,36.123878479003906
+baseline,2024-SE16,San Isidro,1,2024-SE17,5.0,10.0
+baseline,2024-SE16,San Isidro,2,2024-SE18,8.0,10.0
+baseline,2024-SE16,San Isidro,3,2024-SE19,6.0,10.0
+baseline,2024-SE16,San Isidro,4,2024-SE20,3.0,10.0
+xgb_conservador,2024-SE16,San Isidro,1,2024-SE17,5.0,10.399626731872559
+xgb_conservador,2024-SE16,San Isidro,2,2024-SE18,8.0,7.944658279418945
+xgb_conservador,2024-SE16,San Isidro,3,2024-SE19,6.0,7.7799811363220215
+xgb_conservador,2024-SE16,San Isidro,4,2024-SE20,3.0,7.371813774108887
+xgb_moderado,2024-SE16,San Isidro,1,2024-SE17,5.0,10.229552268981934
+xgb_moderado,2024-SE16,San Isidro,2,2024-SE18,8.0,9.893314361572266
+xgb_moderado,2024-SE16,San Isidro,3,2024-SE19,6.0,10.811816215515137
+xgb_moderado,2024-SE16,San Isidro,4,2024-SE20,3.0,10.459675788879395
+xgb_poisson,2024-SE16,San Isidro,1,2024-SE17,5.0,12.09666919708252
+xgb_poisson,2024-SE16,San Isidro,2,2024-SE18,8.0,12.86794662475586
+xgb_poisson,2024-SE16,San Isidro,3,2024-SE19,6.0,12.86794662475586
+xgb_poisson,2024-SE16,San Isidro,4,2024-SE20,3.0,12.86794662475586
+baseline,2024-SE16,San Juan de Lurigancho,1,2024-SE17,908.0,1009.0
+baseline,2024-SE16,San Juan de Lurigancho,2,2024-SE18,840.0,1009.0
+baseline,2024-SE16,San Juan de Lurigancho,3,2024-SE19,805.0,1009.0
+baseline,2024-SE16,San Juan de Lurigancho,4,2024-SE20,543.0,1009.0
+xgb_conservador,2024-SE16,San Juan de Lurigancho,1,2024-SE17,908.0,564.7246704101562
+xgb_conservador,2024-SE16,San Juan de Lurigancho,2,2024-SE18,840.0,555.0323486328125
+xgb_conservador,2024-SE16,San Juan de Lurigancho,3,2024-SE19,805.0,555.95947265625
+xgb_conservador,2024-SE16,San Juan de Lurigancho,4,2024-SE20,543.0,555.95947265625
+xgb_moderado,2024-SE16,San Juan de Lurigancho,1,2024-SE17,908.0,824.0509033203125
+xgb_moderado,2024-SE16,San Juan de Lurigancho,2,2024-SE18,840.0,766.5792846679688
+xgb_moderado,2024-SE16,San Juan de Lurigancho,3,2024-SE19,805.0,759.6156005859375
+xgb_moderado,2024-SE16,San Juan de Lurigancho,4,2024-SE20,543.0,759.6156005859375
+xgb_poisson,2024-SE16,San Juan de Lurigancho,1,2024-SE17,908.0,432.0927429199219
+xgb_poisson,2024-SE16,San Juan de Lurigancho,2,2024-SE18,840.0,282.2766418457031
+xgb_poisson,2024-SE16,San Juan de Lurigancho,3,2024-SE19,805.0,216.03121948242188
+xgb_poisson,2024-SE16,San Juan de Lurigancho,4,2024-SE20,543.0,213.46450805664062
+baseline,2024-SE16,San Luis,1,2024-SE17,17.0,17.0
+baseline,2024-SE16,San Luis,2,2024-SE18,17.0,17.0
+baseline,2024-SE16,San Luis,3,2024-SE19,11.0,17.0
+baseline,2024-SE16,San Luis,4,2024-SE20,6.0,17.0
+xgb_conservador,2024-SE16,San Luis,1,2024-SE17,17.0,17.44640350341797
+xgb_conservador,2024-SE16,San Luis,2,2024-SE18,17.0,14.896312713623047
+xgb_conservador,2024-SE16,San Luis,3,2024-SE19,11.0,11.389572143554688
+xgb_conservador,2024-SE16,San Luis,4,2024-SE20,6.0,9.17068862915039
+xgb_moderado,2024-SE16,San Luis,1,2024-SE17,17.0,18.899715423583984
+xgb_moderado,2024-SE16,San Luis,2,2024-SE18,17.0,22.11004638671875
+xgb_moderado,2024-SE16,San Luis,3,2024-SE19,11.0,23.853038787841797
+xgb_moderado,2024-SE16,San Luis,4,2024-SE20,6.0,24.28400421142578
+xgb_poisson,2024-SE16,San Luis,1,2024-SE17,17.0,18.27131462097168
+xgb_poisson,2024-SE16,San Luis,2,2024-SE18,17.0,22.006122589111328
+xgb_poisson,2024-SE16,San Luis,3,2024-SE19,11.0,24.94001007080078
+xgb_poisson,2024-SE16,San Luis,4,2024-SE20,6.0,27.584482192993164
+baseline,2024-SE16,San Miguel,1,2024-SE17,45.0,50.0
+baseline,2024-SE16,San Miguel,2,2024-SE18,35.0,50.0
+baseline,2024-SE16,San Miguel,3,2024-SE19,34.0,50.0
+baseline,2024-SE16,San Miguel,4,2024-SE20,29.0,50.0
+xgb_conservador,2024-SE16,San Miguel,1,2024-SE17,45.0,48.64802169799805
+xgb_conservador,2024-SE16,San Miguel,2,2024-SE18,35.0,56.402896881103516
+xgb_conservador,2024-SE16,San Miguel,3,2024-SE19,34.0,56.71007537841797
+xgb_conservador,2024-SE16,San Miguel,4,2024-SE20,29.0,54.15998077392578
+xgb_moderado,2024-SE16,San Miguel,1,2024-SE17,45.0,48.01094436645508
+xgb_moderado,2024-SE16,San Miguel,2,2024-SE18,35.0,52.548866271972656
+xgb_moderado,2024-SE16,San Miguel,3,2024-SE19,34.0,55.36964416503906
+xgb_moderado,2024-SE16,San Miguel,4,2024-SE20,29.0,53.719852447509766
+xgb_poisson,2024-SE16,San Miguel,1,2024-SE17,45.0,44.75578308105469
+xgb_poisson,2024-SE16,San Miguel,2,2024-SE18,35.0,48.32090759277344
+xgb_poisson,2024-SE16,San Miguel,3,2024-SE19,34.0,51.4671745300293
+xgb_poisson,2024-SE16,San Miguel,4,2024-SE20,29.0,53.79597854614258
+baseline,2024-SE16,Surquillo,1,2024-SE17,22.0,15.0
+baseline,2024-SE16,Surquillo,2,2024-SE18,11.0,15.0
+baseline,2024-SE16,Surquillo,3,2024-SE19,9.0,15.0
+baseline,2024-SE16,Surquillo,4,2024-SE20,6.0,15.0
+xgb_conservador,2024-SE16,Surquillo,1,2024-SE17,22.0,14.417383193969727
+xgb_conservador,2024-SE16,Surquillo,2,2024-SE18,11.0,11.554248809814453
+xgb_conservador,2024-SE16,Surquillo,3,2024-SE19,9.0,9.17068862915039
+xgb_conservador,2024-SE16,Surquillo,4,2024-SE20,6.0,8.661726951599121
+xgb_moderado,2024-SE16,Surquillo,1,2024-SE17,22.0,16.59847640991211
+xgb_moderado,2024-SE16,Surquillo,2,2024-SE18,11.0,17.345657348632812
+xgb_moderado,2024-SE16,Surquillo,3,2024-SE19,9.0,17.743289947509766
+xgb_moderado,2024-SE16,Surquillo,4,2024-SE20,6.0,17.409082412719727
+xgb_poisson,2024-SE16,Surquillo,1,2024-SE17,22.0,15.982854843139648
+xgb_poisson,2024-SE16,Surquillo,2,2024-SE18,11.0,14.971406936645508
+xgb_poisson,2024-SE16,Surquillo,3,2024-SE19,9.0,15.982854843139648
+xgb_poisson,2024-SE16,Surquillo,4,2024-SE20,6.0,15.982854843139648
+baseline,2024-SE24,Breña,1,2024-SE25,4.0,4.0
+baseline,2024-SE24,Breña,2,2024-SE26,0.0,4.0
+baseline,2024-SE24,Breña,3,2024-SE27,0.0,4.0
+baseline,2024-SE24,Breña,4,2024-SE28,0.0,4.0
+xgb_conservador,2024-SE24,Breña,1,2024-SE25,4.0,5.694675922393799
+xgb_conservador,2024-SE24,Breña,2,2024-SE26,0.0,8.191485404968262
+xgb_conservador,2024-SE24,Breña,3,2024-SE27,0.0,8.740400314331055
+xgb_conservador,2024-SE24,Breña,4,2024-SE28,0.0,7.1924591064453125
+xgb_moderado,2024-SE24,Breña,1,2024-SE25,4.0,6.659688472747803
+xgb_moderado,2024-SE24,Breña,2,2024-SE26,0.0,7.6896281242370605
+xgb_moderado,2024-SE24,Breña,3,2024-SE27,0.0,6.659450054168701
+xgb_moderado,2024-SE24,Breña,4,2024-SE28,0.0,4.889178276062012
+xgb_poisson,2024-SE24,Breña,1,2024-SE25,4.0,7.950257301330566
+xgb_poisson,2024-SE24,Breña,2,2024-SE26,0.0,11.603635787963867
+xgb_poisson,2024-SE24,Breña,3,2024-SE27,0.0,11.384363174438477
+xgb_poisson,2024-SE24,Breña,4,2024-SE28,0.0,12.762351036071777
+baseline,2024-SE24,Cercado de Lima,1,2024-SE25,9.0,23.0
+baseline,2024-SE24,Cercado de Lima,2,2024-SE26,1.0,23.0
+baseline,2024-SE24,Cercado de Lima,3,2024-SE27,4.0,23.0
+baseline,2024-SE24,Cercado de Lima,4,2024-SE28,0.0,23.0
+xgb_conservador,2024-SE24,Cercado de Lima,1,2024-SE25,9.0,23.017271041870117
+xgb_conservador,2024-SE24,Cercado de Lima,2,2024-SE26,1.0,20.393634796142578
+xgb_conservador,2024-SE24,Cercado de Lima,3,2024-SE27,4.0,18.72621726989746
+xgb_conservador,2024-SE24,Cercado de Lima,4,2024-SE28,0.0,15.623331069946289
+xgb_moderado,2024-SE24,Cercado de Lima,1,2024-SE25,9.0,20.4801082611084
+xgb_moderado,2024-SE24,Cercado de Lima,2,2024-SE26,1.0,18.929309844970703
+xgb_moderado,2024-SE24,Cercado de Lima,3,2024-SE27,4.0,16.97438621520996
+xgb_moderado,2024-SE24,Cercado de Lima,4,2024-SE28,0.0,13.026595115661621
+xgb_poisson,2024-SE24,Cercado de Lima,1,2024-SE25,9.0,21.364341735839844
+xgb_poisson,2024-SE24,Cercado de Lima,2,2024-SE26,1.0,20.60304832458496
+xgb_poisson,2024-SE24,Cercado de Lima,3,2024-SE27,4.0,20.60304832458496
+xgb_poisson,2024-SE24,Cercado de Lima,4,2024-SE28,0.0,20.60304832458496
+baseline,2024-SE24,Jesús María,1,2024-SE25,8.0,7.0
+baseline,2024-SE24,Jesús María,2,2024-SE26,1.0,7.0
+baseline,2024-SE24,Jesús María,3,2024-SE27,0.0,7.0
+baseline,2024-SE24,Jesús María,4,2024-SE28,0.0,7.0
+xgb_conservador,2024-SE24,Jesús María,1,2024-SE25,8.0,6.968357086181641
+xgb_conservador,2024-SE24,Jesús María,2,2024-SE26,1.0,3.996382236480713
+xgb_conservador,2024-SE24,Jesús María,3,2024-SE27,0.0,3.202594518661499
+xgb_conservador,2024-SE24,Jesús María,4,2024-SE28,0.0,3.043165683746338
+xgb_moderado,2024-SE24,Jesús María,1,2024-SE25,8.0,8.303650856018066
+xgb_moderado,2024-SE24,Jesús María,2,2024-SE26,1.0,6.629840850830078
+xgb_moderado,2024-SE24,Jesús María,3,2024-SE27,0.0,4.889178276062012
+xgb_moderado,2024-SE24,Jesús María,4,2024-SE28,0.0,3.9681785106658936
+xgb_poisson,2024-SE24,Jesús María,1,2024-SE25,8.0,12.460203170776367
+xgb_poisson,2024-SE24,Jesús María,2,2024-SE26,1.0,13.020952224731445
+xgb_poisson,2024-SE24,Jesús María,3,2024-SE27,0.0,13.982144355773926
+xgb_poisson,2024-SE24,Jesús María,4,2024-SE28,0.0,13.982144355773926
+baseline,2024-SE24,La Victoria,1,2024-SE25,5.0,6.0
+baseline,2024-SE24,La Victoria,2,2024-SE26,2.0,6.0
+baseline,2024-SE24,La Victoria,3,2024-SE27,2.0,6.0
+baseline,2024-SE24,La Victoria,4,2024-SE28,0.0,6.0
+xgb_conservador,2024-SE24,La Victoria,1,2024-SE25,5.0,7.5310235023498535
+xgb_conservador,2024-SE24,La Victoria,2,2024-SE26,2.0,8.740400314331055
+xgb_conservador,2024-SE24,La Victoria,3,2024-SE27,2.0,8.351720809936523
+xgb_conservador,2024-SE24,La Victoria,4,2024-SE28,0.0,6.248181343078613
+xgb_moderado,2024-SE24,La Victoria,1,2024-SE25,5.0,6.325791358947754
+xgb_moderado,2024-SE24,La Victoria,2,2024-SE26,2.0,4.889178276062012
+xgb_moderado,2024-SE24,La Victoria,3,2024-SE27,2.0,3.9681785106658936
+xgb_moderado,2024-SE24,La Victoria,4,2024-SE28,0.0,3.257680892944336
+xgb_poisson,2024-SE24,La Victoria,1,2024-SE25,5.0,8.21982192993164
+xgb_poisson,2024-SE24,La Victoria,2,2024-SE26,2.0,10.171360969543457
+xgb_poisson,2024-SE24,La Victoria,3,2024-SE27,2.0,11.087540626525879
+xgb_poisson,2024-SE24,La Victoria,4,2024-SE28,0.0,12.762351036071777
+baseline,2024-SE24,Lince,1,2024-SE25,0.0,4.0
+baseline,2024-SE24,Lince,2,2024-SE26,1.0,4.0
+baseline,2024-SE24,Lince,3,2024-SE27,0.0,4.0
+baseline,2024-SE24,Lince,4,2024-SE28,1.0,4.0
+xgb_conservador,2024-SE24,Lince,1,2024-SE25,0.0,3.6144206523895264
+xgb_conservador,2024-SE24,Lince,2,2024-SE26,1.0,3.202594518661499
+xgb_conservador,2024-SE24,Lince,3,2024-SE27,0.0,2.6219632625579834
+xgb_conservador,2024-SE24,Lince,4,2024-SE28,1.0,1.9452507495880127
+xgb_moderado,2024-SE24,Lince,1,2024-SE25,0.0,3.9681785106658936
+xgb_moderado,2024-SE24,Lince,2,2024-SE26,1.0,3.257680892944336
+xgb_moderado,2024-SE24,Lince,3,2024-SE27,0.0,2.941570520401001
+xgb_moderado,2024-SE24,Lince,4,2024-SE28,1.0,1.3855808973312378
+xgb_poisson,2024-SE24,Lince,1,2024-SE25,0.0,6.4898529052734375
+xgb_poisson,2024-SE24,Lince,2,2024-SE26,1.0,7.854228973388672
+xgb_poisson,2024-SE24,Lince,3,2024-SE27,0.0,10.171360969543457
+xgb_poisson,2024-SE24,Lince,4,2024-SE28,1.0,11.087540626525879
+baseline,2024-SE24,Magdalena,1,2024-SE25,5.0,4.0
+baseline,2024-SE24,Magdalena,2,2024-SE26,0.0,4.0
+baseline,2024-SE24,Magdalena,3,2024-SE27,0.0,4.0
+baseline,2024-SE24,Magdalena,4,2024-SE28,0.0,4.0
+xgb_conservador,2024-SE24,Magdalena,1,2024-SE25,5.0,4.9745001792907715
+xgb_conservador,2024-SE24,Magdalena,2,2024-SE26,0.0,6.768400192260742
+xgb_conservador,2024-SE24,Magdalena,3,2024-SE27,0.0,7.5310235023498535
+xgb_conservador,2024-SE24,Magdalena,4,2024-SE28,0.0,7.105784893035889
+xgb_moderado,2024-SE24,Magdalena,1,2024-SE25,5.0,5.061349868774414
+xgb_moderado,2024-SE24,Magdalena,2,2024-SE26,0.0,4.968523025512695
+xgb_moderado,2024-SE24,Magdalena,3,2024-SE27,0.0,3.9681785106658936
+xgb_moderado,2024-SE24,Magdalena,4,2024-SE28,0.0,3.257680892944336
+xgb_poisson,2024-SE24,Magdalena,1,2024-SE25,5.0,7.403722763061523
+xgb_poisson,2024-SE24,Magdalena,2,2024-SE26,0.0,11.087540626525879
+xgb_poisson,2024-SE24,Magdalena,3,2024-SE27,0.0,11.384363174438477
+xgb_poisson,2024-SE24,Magdalena,4,2024-SE28,0.0,12.762351036071777
+baseline,2024-SE24,Miraflores,1,2024-SE25,4.0,2.0
+baseline,2024-SE24,Miraflores,2,2024-SE26,0.0,2.0
+baseline,2024-SE24,Miraflores,3,2024-SE27,0.0,2.0
+baseline,2024-SE24,Miraflores,4,2024-SE28,0.0,2.0
+xgb_conservador,2024-SE24,Miraflores,1,2024-SE25,4.0,5.479892253875732
+xgb_conservador,2024-SE24,Miraflores,2,2024-SE26,0.0,5.89171838760376
+xgb_conservador,2024-SE24,Miraflores,3,2024-SE27,0.0,5.514446258544922
+xgb_conservador,2024-SE24,Miraflores,4,2024-SE28,0.0,3.6144206523895264
+xgb_moderado,2024-SE24,Miraflores,1,2024-SE25,4.0,2.4373533725738525
+xgb_moderado,2024-SE24,Miraflores,2,2024-SE26,0.0,1.9267479181289673
+xgb_moderado,2024-SE24,Miraflores,3,2024-SE27,0.0,1.2557340860366821
+xgb_moderado,2024-SE24,Miraflores,4,2024-SE28,0.0,0.8967945575714111
+xgb_poisson,2024-SE24,Miraflores,1,2024-SE25,4.0,3.09447979927063
+xgb_poisson,2024-SE24,Miraflores,2,2024-SE26,0.0,4.574643611907959
+xgb_poisson,2024-SE24,Miraflores,3,2024-SE27,0.0,5.540718078613281
+xgb_poisson,2024-SE24,Miraflores,4,2024-SE28,0.0,6.4898529052734375
+baseline,2024-SE24,Pueblo Libre,1,2024-SE25,8.0,14.0
+baseline,2024-SE24,Pueblo Libre,2,2024-SE26,0.0,14.0
+baseline,2024-SE24,Pueblo Libre,3,2024-SE27,0.0,14.0
+baseline,2024-SE24,Pueblo Libre,4,2024-SE28,0.0,14.0
+xgb_conservador,2024-SE24,Pueblo Libre,1,2024-SE25,8.0,9.800982475280762
+xgb_conservador,2024-SE24,Pueblo Libre,2,2024-SE26,0.0,7.286014556884766
+xgb_conservador,2024-SE24,Pueblo Libre,3,2024-SE27,0.0,6.968357086181641
+xgb_conservador,2024-SE24,Pueblo Libre,4,2024-SE28,0.0,5.038804531097412
+xgb_moderado,2024-SE24,Pueblo Libre,1,2024-SE25,8.0,10.699848175048828
+xgb_moderado,2024-SE24,Pueblo Libre,2,2024-SE26,0.0,8.648080825805664
+xgb_moderado,2024-SE24,Pueblo Libre,3,2024-SE27,0.0,8.648080825805664
+xgb_moderado,2024-SE24,Pueblo Libre,4,2024-SE28,0.0,6.705310344696045
+xgb_poisson,2024-SE24,Pueblo Libre,1,2024-SE25,8.0,14.851088523864746
+xgb_poisson,2024-SE24,Pueblo Libre,2,2024-SE26,0.0,14.703510284423828
+xgb_poisson,2024-SE24,Pueblo Libre,3,2024-SE27,0.0,14.703510284423828
+xgb_poisson,2024-SE24,Pueblo Libre,4,2024-SE28,0.0,14.703510284423828
+baseline,2024-SE24,San Borja,1,2024-SE25,1.0,5.0
+baseline,2024-SE24,San Borja,2,2024-SE26,1.0,5.0
+baseline,2024-SE24,San Borja,3,2024-SE27,0.0,5.0
+baseline,2024-SE24,San Borja,4,2024-SE28,1.0,5.0
+xgb_conservador,2024-SE24,San Borja,1,2024-SE25,1.0,5.89171838760376
+xgb_conservador,2024-SE24,San Borja,2,2024-SE26,1.0,5.816853046417236
+xgb_conservador,2024-SE24,San Borja,3,2024-SE27,0.0,3.6144206523895264
+xgb_conservador,2024-SE24,San Borja,4,2024-SE28,1.0,3.202594518661499
+xgb_moderado,2024-SE24,San Borja,1,2024-SE25,1.0,4.795032024383545
+xgb_moderado,2024-SE24,San Borja,2,2024-SE26,1.0,3.3843209743499756
+xgb_moderado,2024-SE24,San Borja,3,2024-SE27,0.0,3.257680892944336
+xgb_moderado,2024-SE24,San Borja,4,2024-SE28,1.0,2.941570520401001
+xgb_poisson,2024-SE24,San Borja,1,2024-SE25,1.0,5.662348747253418
+xgb_poisson,2024-SE24,San Borja,2,2024-SE26,1.0,6.4898529052734375
+xgb_poisson,2024-SE24,San Borja,3,2024-SE27,0.0,7.854228973388672
+xgb_poisson,2024-SE24,San Borja,4,2024-SE28,1.0,10.171360969543457
+baseline,2024-SE24,San Isidro,1,2024-SE25,0.0,1.0
+baseline,2024-SE24,San Isidro,2,2024-SE26,0.0,1.0
+baseline,2024-SE24,San Isidro,3,2024-SE27,1.0,1.0
+baseline,2024-SE24,San Isidro,4,2024-SE28,0.0,1.0
+xgb_conservador,2024-SE24,San Isidro,1,2024-SE25,0.0,1.9452507495880127
+xgb_conservador,2024-SE24,San Isidro,2,2024-SE26,0.0,5.479892253875732
+xgb_conservador,2024-SE24,San Isidro,3,2024-SE27,1.0,5.89171838760376
+xgb_conservador,2024-SE24,San Isidro,4,2024-SE28,0.0,5.514446258544922
+xgb_moderado,2024-SE24,San Isidro,1,2024-SE25,0.0,0.8967945575714111
+xgb_moderado,2024-SE24,San Isidro,2,2024-SE26,0.0,0.6398441195487976
+xgb_moderado,2024-SE24,San Isidro,3,2024-SE27,1.0,0.5785030126571655
+xgb_moderado,2024-SE24,San Isidro,4,2024-SE28,0.0,0.6398441195487976
+xgb_poisson,2024-SE24,San Isidro,1,2024-SE25,0.0,2.8663551807403564
+xgb_poisson,2024-SE24,San Isidro,2,2024-SE26,0.0,2.95621395111084
+xgb_poisson,2024-SE24,San Isidro,3,2024-SE27,1.0,3.09447979927063
+xgb_poisson,2024-SE24,San Isidro,4,2024-SE28,0.0,4.574643611907959
+baseline,2024-SE24,San Juan de Lurigancho,1,2024-SE25,48.0,61.0
+baseline,2024-SE24,San Juan de Lurigancho,2,2024-SE26,34.0,61.0
+baseline,2024-SE24,San Juan de Lurigancho,3,2024-SE27,14.0,61.0
+baseline,2024-SE24,San Juan de Lurigancho,4,2024-SE28,9.0,61.0
+xgb_conservador,2024-SE24,San Juan de Lurigancho,1,2024-SE25,48.0,40.475894927978516
+xgb_conservador,2024-SE24,San Juan de Lurigancho,2,2024-SE26,34.0,42.70732879638672
+xgb_conservador,2024-SE24,San Juan de Lurigancho,3,2024-SE27,14.0,45.11125946044922
+xgb_conservador,2024-SE24,San Juan de Lurigancho,4,2024-SE28,9.0,37.45270919799805
+xgb_moderado,2024-SE24,San Juan de Lurigancho,1,2024-SE25,48.0,40.33877182006836
+xgb_moderado,2024-SE24,San Juan de Lurigancho,2,2024-SE26,34.0,29.40665626525879
+xgb_moderado,2024-SE24,San Juan de Lurigancho,3,2024-SE27,14.0,22.768394470214844
+xgb_moderado,2024-SE24,San Juan de Lurigancho,4,2024-SE28,9.0,17.612869262695312
+xgb_poisson,2024-SE24,San Juan de Lurigancho,1,2024-SE25,48.0,54.09894561767578
+xgb_poisson,2024-SE24,San Juan de Lurigancho,2,2024-SE26,34.0,44.77814483642578
+xgb_poisson,2024-SE24,San Juan de Lurigancho,3,2024-SE27,14.0,43.41632080078125
+xgb_poisson,2024-SE24,San Juan de Lurigancho,4,2024-SE28,9.0,42.027320861816406
+baseline,2024-SE24,San Luis,1,2024-SE25,1.0,1.0
+baseline,2024-SE24,San Luis,2,2024-SE26,0.0,1.0
+baseline,2024-SE24,San Luis,3,2024-SE27,0.0,1.0
+baseline,2024-SE24,San Luis,4,2024-SE28,0.0,1.0
+xgb_conservador,2024-SE24,San Luis,1,2024-SE25,1.0,1.9452507495880127
+xgb_conservador,2024-SE24,San Luis,2,2024-SE26,0.0,5.479892253875732
+xgb_conservador,2024-SE24,San Luis,3,2024-SE27,0.0,5.89171838760376
+xgb_conservador,2024-SE24,San Luis,4,2024-SE28,0.0,5.514446258544922
+xgb_moderado,2024-SE24,San Luis,1,2024-SE25,1.0,0.8967945575714111
+xgb_moderado,2024-SE24,San Luis,2,2024-SE26,0.0,0.6398441195487976
+xgb_moderado,2024-SE24,San Luis,3,2024-SE27,0.0,0.6398441195487976
+xgb_moderado,2024-SE24,San Luis,4,2024-SE28,0.0,0.6398441195487976
+xgb_poisson,2024-SE24,San Luis,1,2024-SE25,1.0,2.9292778968811035
+xgb_poisson,2024-SE24,San Luis,2,2024-SE26,0.0,3.09447979927063
+xgb_poisson,2024-SE24,San Luis,3,2024-SE27,0.0,4.574643611907959
+xgb_poisson,2024-SE24,San Luis,4,2024-SE28,0.0,6.4898529052734375
+baseline,2024-SE24,San Miguel,1,2024-SE25,3.0,13.0
+baseline,2024-SE24,San Miguel,2,2024-SE26,0.0,13.0
+baseline,2024-SE24,San Miguel,3,2024-SE27,0.0,13.0
+baseline,2024-SE24,San Miguel,4,2024-SE28,0.0,13.0
+xgb_conservador,2024-SE24,San Miguel,1,2024-SE25,3.0,10.503000259399414
+xgb_conservador,2024-SE24,San Miguel,2,2024-SE26,0.0,7.286014556884766
+xgb_conservador,2024-SE24,San Miguel,3,2024-SE27,0.0,7.286014556884766
+xgb_conservador,2024-SE24,San Miguel,4,2024-SE28,0.0,6.248181343078613
+xgb_moderado,2024-SE24,San Miguel,1,2024-SE25,3.0,10.455056190490723
+xgb_moderado,2024-SE24,San Miguel,2,2024-SE26,0.0,8.648080825805664
+xgb_moderado,2024-SE24,San Miguel,3,2024-SE27,0.0,8.648080825805664
+xgb_moderado,2024-SE24,San Miguel,4,2024-SE28,0.0,6.705310344696045
+xgb_poisson,2024-SE24,San Miguel,1,2024-SE25,3.0,13.982144355773926
+xgb_poisson,2024-SE24,San Miguel,2,2024-SE26,0.0,13.982144355773926
+xgb_poisson,2024-SE24,San Miguel,3,2024-SE27,0.0,13.982144355773926
+xgb_poisson,2024-SE24,San Miguel,4,2024-SE28,0.0,13.982144355773926
+baseline,2024-SE24,Surquillo,1,2024-SE25,2.0,4.0
+baseline,2024-SE24,Surquillo,2,2024-SE26,0.0,4.0
+baseline,2024-SE24,Surquillo,3,2024-SE27,1.0,4.0
+baseline,2024-SE24,Surquillo,4,2024-SE28,0.0,4.0
+xgb_conservador,2024-SE24,Surquillo,1,2024-SE25,2.0,2.357077121734619
+xgb_conservador,2024-SE24,Surquillo,2,2024-SE26,0.0,2.104679822921753
+xgb_conservador,2024-SE24,Surquillo,3,2024-SE27,1.0,1.9452507495880127
+xgb_conservador,2024-SE24,Surquillo,4,2024-SE28,0.0,1.9452507495880127
+xgb_moderado,2024-SE24,Surquillo,1,2024-SE25,2.0,3.2544748783111572
+xgb_moderado,2024-SE24,Surquillo,2,2024-SE26,0.0,2.5439770221710205
+xgb_moderado,2024-SE24,Surquillo,3,2024-SE27,1.0,1.2557340860366821
+xgb_moderado,2024-SE24,Surquillo,4,2024-SE28,0.0,1.2557340860366821
+xgb_poisson,2024-SE24,Surquillo,1,2024-SE25,2.0,5.540718078613281
+xgb_poisson,2024-SE24,Surquillo,2,2024-SE26,0.0,5.662348747253418
+xgb_poisson,2024-SE24,Surquillo,3,2024-SE27,1.0,6.4898529052734375
+xgb_poisson,2024-SE24,Surquillo,4,2024-SE28,0.0,7.854228973388672
+baseline,2024-SE32,Breña,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,Breña,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,Breña,3,2024-SE35,1.0,0.0
+baseline,2024-SE32,Breña,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,Breña,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,Breña,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,Breña,3,2024-SE35,1.0,0.0
+xgb_conservador,2024-SE32,Breña,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,Breña,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,Breña,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,Breña,3,2024-SE35,1.0,0.0
+xgb_moderado,2024-SE32,Breña,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,Breña,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,Breña,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,Breña,3,2024-SE35,1.0,0.0
+xgb_poisson,2024-SE32,Breña,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,Cercado de Lima,1,2024-SE33,1.0,0.0
+baseline,2024-SE32,Cercado de Lima,2,2024-SE34,1.0,0.0
+baseline,2024-SE32,Cercado de Lima,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,Cercado de Lima,4,2024-SE36,1.0,0.0
+xgb_conservador,2024-SE32,Cercado de Lima,1,2024-SE33,1.0,0.0
+xgb_conservador,2024-SE32,Cercado de Lima,2,2024-SE34,1.0,0.0
+xgb_conservador,2024-SE32,Cercado de Lima,3,2024-SE35,0.0,0.0
+xgb_conservador,2024-SE32,Cercado de Lima,4,2024-SE36,1.0,0.0
+xgb_moderado,2024-SE32,Cercado de Lima,1,2024-SE33,1.0,0.0
+xgb_moderado,2024-SE32,Cercado de Lima,2,2024-SE34,1.0,0.0
+xgb_moderado,2024-SE32,Cercado de Lima,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,Cercado de Lima,4,2024-SE36,1.0,0.0
+xgb_poisson,2024-SE32,Cercado de Lima,1,2024-SE33,1.0,0.0
+xgb_poisson,2024-SE32,Cercado de Lima,2,2024-SE34,1.0,0.0
+xgb_poisson,2024-SE32,Cercado de Lima,3,2024-SE35,0.0,0.0
+xgb_poisson,2024-SE32,Cercado de Lima,4,2024-SE36,1.0,0.0
+baseline,2024-SE32,Jesús María,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,Jesús María,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,Jesús María,3,2024-SE35,1.0,0.0
+baseline,2024-SE32,Jesús María,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,Jesús María,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,Jesús María,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,Jesús María,3,2024-SE35,1.0,0.0
+xgb_conservador,2024-SE32,Jesús María,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,Jesús María,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,Jesús María,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,Jesús María,3,2024-SE35,1.0,0.0
+xgb_moderado,2024-SE32,Jesús María,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,Jesús María,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,Jesús María,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,Jesús María,3,2024-SE35,1.0,0.0
+xgb_poisson,2024-SE32,Jesús María,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,La Victoria,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,La Victoria,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,La Victoria,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,La Victoria,4,2024-SE36,1.0,0.0
+xgb_conservador,2024-SE32,La Victoria,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,La Victoria,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,La Victoria,3,2024-SE35,0.0,0.0
+xgb_conservador,2024-SE32,La Victoria,4,2024-SE36,1.0,0.0
+xgb_moderado,2024-SE32,La Victoria,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,La Victoria,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,La Victoria,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,La Victoria,4,2024-SE36,1.0,0.0
+xgb_poisson,2024-SE32,La Victoria,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,La Victoria,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,La Victoria,3,2024-SE35,0.0,0.0
+xgb_poisson,2024-SE32,La Victoria,4,2024-SE36,1.0,0.0
+baseline,2024-SE32,Lince,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,Lince,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,Lince,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,Lince,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,Lince,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,Lince,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,Lince,3,2024-SE35,0.0,0.0
+xgb_conservador,2024-SE32,Lince,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,Lince,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,Lince,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,Lince,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,Lince,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,Lince,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,Lince,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,Lince,3,2024-SE35,0.0,0.0
+xgb_poisson,2024-SE32,Lince,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,Magdalena,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,Magdalena,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,Magdalena,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,Magdalena,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,Magdalena,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,Magdalena,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,Magdalena,3,2024-SE35,0.0,0.0
+xgb_conservador,2024-SE32,Magdalena,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,Magdalena,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,Magdalena,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,Magdalena,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,Magdalena,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,Magdalena,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,Magdalena,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,Magdalena,3,2024-SE35,0.0,0.0
+xgb_poisson,2024-SE32,Magdalena,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,Miraflores,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,Miraflores,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,Miraflores,3,2024-SE35,2.0,0.0
+baseline,2024-SE32,Miraflores,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,Miraflores,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,Miraflores,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,Miraflores,3,2024-SE35,2.0,0.0
+xgb_conservador,2024-SE32,Miraflores,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,Miraflores,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,Miraflores,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,Miraflores,3,2024-SE35,2.0,0.0
+xgb_moderado,2024-SE32,Miraflores,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,Miraflores,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,Miraflores,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,Miraflores,3,2024-SE35,2.0,0.0
+xgb_poisson,2024-SE32,Miraflores,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,Pueblo Libre,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,Pueblo Libre,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,Pueblo Libre,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,Pueblo Libre,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,Pueblo Libre,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,Pueblo Libre,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,Pueblo Libre,3,2024-SE35,0.0,0.0
+xgb_conservador,2024-SE32,Pueblo Libre,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,Pueblo Libre,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,Pueblo Libre,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,Pueblo Libre,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,Pueblo Libre,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,Pueblo Libre,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,Pueblo Libre,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,Pueblo Libre,3,2024-SE35,0.0,0.0
+xgb_poisson,2024-SE32,Pueblo Libre,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,San Borja,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,San Borja,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,San Borja,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,San Borja,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,San Borja,1,2024-SE33,0.0,1.7333146333694458
+xgb_conservador,2024-SE32,San Borja,2,2024-SE34,0.0,1.7333146333694458
+xgb_conservador,2024-SE32,San Borja,3,2024-SE35,0.0,1.7333146333694458
+xgb_conservador,2024-SE32,San Borja,4,2024-SE36,0.0,1.7333146333694458
+xgb_moderado,2024-SE32,San Borja,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,San Borja,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,San Borja,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,San Borja,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,San Borja,1,2024-SE33,0.0,2.1897149085998535
+xgb_poisson,2024-SE32,San Borja,2,2024-SE34,0.0,2.535353899002075
+xgb_poisson,2024-SE32,San Borja,3,2024-SE35,0.0,2.6671206951141357
+xgb_poisson,2024-SE32,San Borja,4,2024-SE36,0.0,2.6671206951141357
+baseline,2024-SE32,San Isidro,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,San Isidro,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,San Isidro,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,San Isidro,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,San Isidro,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,San Isidro,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,San Isidro,3,2024-SE35,0.0,0.0
+xgb_conservador,2024-SE32,San Isidro,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,San Isidro,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,San Isidro,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,San Isidro,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,San Isidro,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,San Isidro,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,San Isidro,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,San Isidro,3,2024-SE35,0.0,0.0
+xgb_poisson,2024-SE32,San Isidro,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,San Juan de Lurigancho,1,2024-SE33,3.0,0.0
+baseline,2024-SE32,San Juan de Lurigancho,2,2024-SE34,1.0,0.0
+baseline,2024-SE32,San Juan de Lurigancho,3,2024-SE35,1.0,0.0
+baseline,2024-SE32,San Juan de Lurigancho,4,2024-SE36,2.0,0.0
+xgb_conservador,2024-SE32,San Juan de Lurigancho,1,2024-SE33,3.0,1.7333146333694458
+xgb_conservador,2024-SE32,San Juan de Lurigancho,2,2024-SE34,1.0,1.7333146333694458
+xgb_conservador,2024-SE32,San Juan de Lurigancho,3,2024-SE35,1.0,1.7333146333694458
+xgb_conservador,2024-SE32,San Juan de Lurigancho,4,2024-SE36,2.0,1.7333146333694458
+xgb_moderado,2024-SE32,San Juan de Lurigancho,1,2024-SE33,3.0,0.6688683032989502
+xgb_moderado,2024-SE32,San Juan de Lurigancho,2,2024-SE34,1.0,0.0
+xgb_moderado,2024-SE32,San Juan de Lurigancho,3,2024-SE35,1.0,0.0
+xgb_moderado,2024-SE32,San Juan de Lurigancho,4,2024-SE36,2.0,0.0
+xgb_poisson,2024-SE32,San Juan de Lurigancho,1,2024-SE33,3.0,2.4614827632904053
+xgb_poisson,2024-SE32,San Juan de Lurigancho,2,2024-SE34,1.0,2.535353899002075
+xgb_poisson,2024-SE32,San Juan de Lurigancho,3,2024-SE35,1.0,2.6671206951141357
+xgb_poisson,2024-SE32,San Juan de Lurigancho,4,2024-SE36,2.0,2.6671206951141357
+baseline,2024-SE32,San Luis,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,San Luis,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,San Luis,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,San Luis,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,San Luis,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,San Luis,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,San Luis,3,2024-SE35,0.0,0.0
+xgb_conservador,2024-SE32,San Luis,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,San Luis,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,San Luis,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,San Luis,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,San Luis,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,San Luis,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,San Luis,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,San Luis,3,2024-SE35,0.0,0.0
+xgb_poisson,2024-SE32,San Luis,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,San Miguel,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,San Miguel,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,San Miguel,3,2024-SE35,0.0,0.0
+baseline,2024-SE32,San Miguel,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,San Miguel,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,San Miguel,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,San Miguel,3,2024-SE35,0.0,0.0
+xgb_conservador,2024-SE32,San Miguel,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,San Miguel,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,San Miguel,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,San Miguel,3,2024-SE35,0.0,0.0
+xgb_moderado,2024-SE32,San Miguel,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,San Miguel,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,San Miguel,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,San Miguel,3,2024-SE35,0.0,0.0
+xgb_poisson,2024-SE32,San Miguel,4,2024-SE36,0.0,0.0
+baseline,2024-SE32,Surquillo,1,2024-SE33,0.0,0.0
+baseline,2024-SE32,Surquillo,2,2024-SE34,0.0,0.0
+baseline,2024-SE32,Surquillo,3,2024-SE35,1.0,0.0
+baseline,2024-SE32,Surquillo,4,2024-SE36,0.0,0.0
+xgb_conservador,2024-SE32,Surquillo,1,2024-SE33,0.0,0.0
+xgb_conservador,2024-SE32,Surquillo,2,2024-SE34,0.0,0.0
+xgb_conservador,2024-SE32,Surquillo,3,2024-SE35,1.0,0.0
+xgb_conservador,2024-SE32,Surquillo,4,2024-SE36,0.0,0.0
+xgb_moderado,2024-SE32,Surquillo,1,2024-SE33,0.0,0.0
+xgb_moderado,2024-SE32,Surquillo,2,2024-SE34,0.0,0.0
+xgb_moderado,2024-SE32,Surquillo,3,2024-SE35,1.0,0.0
+xgb_moderado,2024-SE32,Surquillo,4,2024-SE36,0.0,0.0
+xgb_poisson,2024-SE32,Surquillo,1,2024-SE33,0.0,0.0
+xgb_poisson,2024-SE32,Surquillo,2,2024-SE34,0.0,0.0
+xgb_poisson,2024-SE32,Surquillo,3,2024-SE35,1.0,0.0
+xgb_poisson,2024-SE32,Surquillo,4,2024-SE36,0.0,0.0
